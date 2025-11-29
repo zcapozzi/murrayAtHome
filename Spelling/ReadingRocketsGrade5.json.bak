@@ -1,0 +1,2263 @@
+[
+  {
+    "word": "ability",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The wild horses of Corolla have the **ability** to survive harsh weather.",
+      "She showed a great **ability** to solve complex math problems.",
+      "Do you have the **ability** to climb to the top of the lookout tower?"
+    ]
+  },
+  {
+    "word": "absence",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Due to her **absence**, the class sent her a postcard from Raleigh.",
+      "The noticeable **absence** of trees was due to a recent wildfire.",
+      "He explained his **absence** from the school play."
+    ]
+  },
+  {
+    "word": "absolutely",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Blue Ridge Parkway views are **absolutely** stunning in the fall.",
+      "I am **absolutely** sure that is the state flag.",
+      "She was **absolutely** correct in her answer."
+    ]
+  },
+  {
+    "word": "accident",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The little scratch on the car was a complete **accident**.",
+      "Be careful on the trail to avoid a hiking **accident**.",
+      "The scientist discovered the formula by **accident**."
+    ]
+  },
+  {
+    "word": "account",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Please give a full **account** of your trip to the coast.",
+      "I need to deposit money into my bank **account**.",
+      "You must take the traffic laws into **account** while driving."
+    ]
+  },
+  {
+    "word": "accurate",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Her drawing of the NC State Capitol was very **accurate**.",
+      "Use a ruler to make an **accurate** measurement.",
+      "The weather forecast was surprisingly **accurate** today."
+    ]
+  },
+  {
+    "word": "achieve",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Wright brothers worked hard to **achieve** flight.",
+      "She hopes to **achieve** the highest score on the test.",
+      "It takes dedication to **achieve** your goals."
+    ]
+  },
+  {
+    "word": "acquire",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We plan to **acquire** a new map before exploring the Smokies.",
+      "He wants to **acquire** more knowledge about local wildlife.",
+      "The company managed to **acquire** the small business."
+    ]
+  }
+  ,
+  {
+    "word": "act",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We decided to **act** quickly when we saw the turtle crossing the road.",
+      "She performed the third **act** of the play perfectly.",
+      "The legislature will **act** on the new state bill."
+    ]
+  },
+  {
+    "word": "adjust",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I had to **adjust** my backpack after packing snacks for the hike.",
+      "Please **adjust** the volume of the music.",
+      "The sailor needed to **adjust** the sails to catch the wind."
+    ]
+  },
+  {
+    "word": "admire",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We all **admire** the beautiful rhododendrons in the NC mountains.",
+      "I really **admire** her talent for drawing.",
+      "You have to **admire** the effort he put into the project."
+    ]
+  },
+  {
+    "word": "advance",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The storm continued to **advance** up the North Carolina coast.",
+      "He was promoted to a more **advance**d level.",
+      "We paid for the tickets in **advance**."
+    ]
+  },
+  {
+    "word": "advantage",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Knowing the trails gives us an **advantage** in the hiking competition.",
+      "He took **advantage** of the sale at the local store.",
+      "A fast computer is a big **advantage** for gaming."
+    ]
+  },
+  {
+    "word": "advice",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "My grandpa gave me great **advice** about fishing on the pier.",
+      "Ask your teacher for **advice** on how to study.",
+      "She offered her best **advice** to the new students."
+    ]
+  },
+  {
+    "word": "affect",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The cold weather might **affect** the mountain apple crops.",
+      "Your positive attitude will **affect** everyone around you.",
+      "The medicine did not **affect** his concentration."
+    ]
+  },
+  {
+    "word": "aid",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The teacher gave me some extra **aid** with my homework.",
+      "The Red Cross provides important emergency **aid**.",
+      "He used a visual **aid** during his report on the state flag."
+    ]
+  },
+  {
+    "word": "aim",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "My **aim** is to visit all the NC State Parks this year.",
+      "She took careful **aim** before throwing the ball.",
+      "You should **aim** high in life and follow your dreams."
+    ]
+  },
+  {
+    "word": "allow",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The park rangers **allow** camping in designated areas only.",
+      "Will the school **allow** us to have a field trip to Charlotte?",
+      "The gate agent did not **allow** late boarding."
+    ]
+  },
+  {
+    "word": "amount",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "A large **amount** of sand washed up on the beach overnight.",
+      "We need a small **amount** of milk for the recipe.",
+      "The total **amount** due is listed on the receipt."
+    ]
+  },
+  {
+    "word": "anger",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "His sudden outburst of **anger** surprised everyone.",
+      "It's important to control your **anger** when you're frustrated.",
+      "The delay caused great **anger** among the travelers."
+    ]
+  },
+  {
+    "word": "announce",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The principal will **announce** the winner of the NC history contest.",
+      "The speaker will **announce** the election results at 9 PM.",
+      "They plan to **announce** their engagement next month."
+    ]
+  },
+  {
+    "word": "anyone",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Does **anyone** know the way to the lighthouse?",
+      "I didn't see **anyone** familiar at the NC State Fair.",
+      "She asked if **anyone** had extra pencils."
+    ]
+  },
+  {
+    "word": "appoint",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The governor will **appoint** a new member to the state commission.",
+      "They plan to **appoint** a manager by the end of the week.",
+      "He was asked to **appoint** two students to lead the group."
+    ]
+  },
+  {
+    "word": "approach",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The road we took was the only **approach** to the mountain cabin.",
+      "We watched the large ship **approach** the harbor in Wilmington.",
+      "She decided to **approach** the problem from a different angle."
+    ]
+  },
+  {
+    "word": "approve",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The town council must **approve** the new park construction.",
+      "My parents will surely **approve** of my good grades.",
+      "The bank will **approve** the loan next week."
+    ]
+  },
+  {
+    "word": "arrange",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We need to **arrange** transportation for our trip to the NC Zoo.",
+      "Please **arrange** the books neatly on the shelf.",
+      "She tried to **arrange** a meeting with the senator."
+    ]
+  },
+  {
+    "word": "arrival",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **arrival** of the train was delayed by the bad weather.",
+      "We celebrated the **arrival** of summer break with a beach trip.",
+      "Please confirm the expected **arrival** time."
+    ]
+  },
+  {
+    "word": "assist",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The volunteer helped to **assist** visitors at the historic site.",
+      "Can you **assist** me with carrying these heavy bags?",
+      "The student offered to **assist** the teacher in setting up the lab."
+    ]
+  },
+  {
+    "word": "attach",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Use the clip to **attach** the name tag to your shirt.",
+      "I need to **attach** the photos to the email about our NC trip.",
+      "Please **attach** this sign to the wooden post."
+    ]
+  },
+  {
+    "word": "attempt",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The first **attempt** at flight by the Wright brothers failed.",
+      "She made an honest **attempt** to solve the puzzle.",
+      "Do not **attempt** to cross the stream when the water is high."
+    ]
+  },
+  {
+    "word": "average",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **average** temperature in North Carolina is quite mild.",
+      "If you **average** the scores, you get a B grade.",
+      "He is just an **average** student in his class."
+    ]
+  },
+  {
+    "word": "away",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The beach is only an hour **away** from our town.",
+      "She looked **away** when the bright light flashed.",
+      "The dog ran **away** from the yard."
+    ]
+  },
+  {
+    "word": "base",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The mountain climbers set up camp at the **base** of Mount Mitchell.",
+      "The scientist used a chemical **base** in the experiment.",
+      "His argument had no factual **base**."
+    ]
+  },
+  {
+    "word": "beautiful",
+    "grade": 5,
+    "has_asterisk": true,
+    "phrases": [
+      "The sunset over the Outer Banks was truly **beautiful**.",
+      "She wore a **beautiful** dress to the state dance.",
+      "The garden is full of **beautiful** flowers."
+    ]
+  },
+  {
+    "word": "behavior",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Good **behavior** is expected on our field trip to the museum.",
+      "His recent change in **behavior** worried his parents.",
+      "We studied the nesting **behavior** of sea turtles."
+    ]
+  },
+  {
+    "word": "behind",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "He hid the sand dollar **behind** his back.",
+      "Our team is two points **behind** in the championship game.",
+      "She left her keys **behind** at the coffee shop."
+    ]
+  },
+  {
+    "word": "belong",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Where does this old NC map **belong**?",
+      "These seashells **belong** in the ocean, not in a plastic bag.",
+      "The red notebook does not **belong** to me."
+    ]
+  },
+  {
+    "word": "birth",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "He celebrated the **birth** of his baby sister.",
+      "We studied the story of the nation's **birth**.",
+      "The exact date of her **birth** is a secret."
+    ]
+  },
+  {
+    "word": "box",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I packed all my NC souvenirs in a large cardboard **box**.",
+      "He tried to think outside the **box** for a creative idea.",
+      "We mailed the package in a small, square **box**."
+    ]
+  },
+  {
+    "word": "branch",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The government is divided into three **branch**es.",
+      "A large **branch** fell from the oak tree during the storm.",
+      "The bank has a new **branch** opening in town."
+    ]
+  },
+  {
+    "word": "break",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Be careful not to **break** the glass while packing.",
+      "We get a spring **break** from school every March.",
+      "There was a brief **break** in the cloudy weather."
+    ]
+  },
+  {
+    "word": "brief",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Give me a **brief** summary of North Carolina's colonial history.",
+      "The meeting was surprisingly **brief**.",
+      "She gave a **brief** wave and hurried away."
+    ]
+  },
+  {
+    "word": "buy",
+    "grade": 5,
+    "has_asterisk": true,
+    "phrases": [
+      "I want to **buy** a hat from the gift shop at the Biltmore.",
+      "She plans to **buy** a new book this afternoon.",
+      "Can you **buy** some milk on your way home?"
+    ]
+  },
+  {
+    "word": "cable",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The suspension bridge was held up by thick steel **cable**s.",
+      "The television stopped working because the **cable** was loose.",
+      "She used a special **cable** to connect her phone to the computer."
+    ]
+  },
+  {
+    "word": "certain",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I am **certain** that Raleigh is the capital of NC.",
+      "You must be a **certain** height to ride this roller coaster.",
+      "There are **certain** rules we must follow in the library."
+    ]
+  },
+  {
+    "word": "chamber",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The court used the judge's **chamber** for a private meeting.",
+      "The Senate **chamber** is where lawmakers meet.",
+      "The heart has four main **chamber**s."
+    ]
+  },
+  {
+    "word": "charge",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We need to **charge** the battery before our trip to the coast.",
+      "The zoo keeper is in **charge** of feeding the animals.",
+      "The store will **charge** an extra fee for delivery."
+    ]
+  },
+  {
+    "word": "chief",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Cherokee tribe's leader is called a **chief**.",
+      "His **chief** goal is to finish school with high honors.",
+      "The company appointed a new **chief** executive officer."
+    ]
+  },
+  {
+    "word": "claim",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The student tried to **claim** the lost book was hers.",
+      "Scientists **claim** the coast is changing due to erosion.",
+      "You must file a **claim** for your lost luggage."
+    ]
+  },
+  {
+    "word": "coast",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The entire North Carolina **coast** is famous for its beaches.",
+      "We took a road trip down the western **coast** of America.",
+      "The ship sailed along the rocky **coast**line."
+    ]
+  },
+  {
+    "word": "column",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The old building has tall stone **column**s at the entrance.",
+      "Write your answers in the correct **column** on the sheet.",
+      "The newspaper ran a weekly opinion **column**."
+    ]
+  },
+  {
+    "word": "commit",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "You must **commit** to studying hard to pass the test.",
+      "She decided to **commit** to the volunteer program.",
+      "The city decided to **commit** more funds to the public library."
+    ]
+  },
+  {
+    "word": "community",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Our local **community** loves to gather for the annual NC barbecue festival.",
+      "She volunteered to help clean up the neighborhood **community**.",
+      "The new law affects the entire **community**."
+    ]
+  },
+  {
+    "word": "company",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The airline **company** is based in Charlotte.",
+      "I enjoy the **company** of my friends and family.",
+      "She started her own small **company** selling handmade crafts."
+    ]
+  },
+  {
+    "word": "condition",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The hiking trails are in excellent **condition** after the repairs.",
+      "The car is sold as-is, regardless of its **condition**.",
+      "She has a severe medical **condition**."
+    ]
+  },
+  {
+    "word": "conflict",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "There was a brief **conflict** between the two basketball teams.",
+      "The story describes the main character's inner **conflict**.",
+      "She tried to avoid any kind of **conflict**."
+    ]
+  },
+  {
+    "word": "contest",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The school held a spelling **contest** for fifth graders.",
+      "He plans to **contest** the result of the election.",
+      "The winner of the art **contest** won a trip to the NC Museum of Art."
+    ]
+  },
+  {
+    "word": "continue",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We will **continue** our drive along the Blue Ridge Parkway tomorrow.",
+      "The rain is expected to **continue** through the night.",
+      "She decided to **continue** her education after graduation."
+    ]
+  },
+  {
+    "word": "contrast",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The white sand of the beach is a sharp **contrast** to the blue ocean.",
+      "Please **contrast** the mountain region with the coastal region of NC.",
+      "The painting uses a vivid **contrast** of light and dark colors."
+    ]
+  },
+  {
+    "word": "court",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We watched the final game on the basketball **court**.",
+      "The suspect had to appear in **court** yesterday.",
+      "The king and queen sat in the royal **court**."
+    ]
+  },
+  {
+    "word": "create",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We will **create** a diorama of the first flight at Kitty Hawk.",
+      "She used clay to **create** a beautiful vase.",
+      "The artist helped to **create** the mural on the downtown building."
+    ]
+  },
+  {
+    "word": "crime",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The police quickly solved the mysterious **crime**.",
+      "She reported the minor **crime** to the local authorities.",
+      "The history class studied the impact of prohibition-era **crime**."
+    ]
+  },
+  {
+    "word": "cruel",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It is **cruel** to leave pets out in the cold North Carolina winter.",
+      "The villain in the book was incredibly **cruel**.",
+      "She thinks it's **cruel** to keep animals in tiny cages."
+    ]
+  },
+  {
+    "word": "custom",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It is a local **custom** to celebrate the Fourth of July with fireworks.",
+      "She learned about the ancient **custom**s of the Native American tribes.",
+      "Tipping the waiter is a common dining **custom**."
+    ]
+  },
+  {
+    "word": "danger",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The hurricane brought serious **danger** to the Outer Banks residents.",
+      "Stay away from the construction site; it is a **danger** zone.",
+      "She recognized the **danger** of walking alone at night."
+    ]
+  },
+  {
+    "word": "depend",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The picnic plans **depend** on the weather forecast.",
+      "You can always **depend** on your best friends.",
+      "The quality of the product will **depend** on the raw materials used."
+    ]
+  },
+  {
+    "word": "describe",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Can you **describe** the beauty of the Smoky Mountains?",
+      "The witness was asked to **describe** the suspect.",
+      "I will **describe** the steps of the experiment."
+    ]
+  },
+  {
+    "word": "detail",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The painter captured every small **detail** of the NC landscape.",
+      "I need more **detail**s about the class project.",
+      "She went into great **detail** about her summer vacation."
+    ]
+  },
+  {
+    "word": "determine",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The judges must **determine** the best barbecue recipe.",
+      "We need to **determine** the correct speed for the race.",
+      "Her effort will **determine** the success of the project."
+    ]
+  },
+  {
+    "word": "difference",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "There is a big **difference** between the mountains and the coast.",
+      "She couldn't tell the **difference** between the twins.",
+      "Your vote can make a real **difference**."
+    ]
+  },
+  {
+    "word": "difficulty",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "He had some **difficulty** reading the old handwriting on the NC map.",
+      "The hikers overcame the **difficulty** of the steep trail.",
+      "I am having **difficulty** understanding this math concept."
+    ]
+  },
+  {
+    "word": "direct",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The map shows the most **direct** route to Raleigh.",
+      "Can you **direct** me to the nearest gas station?",
+      "The principal will **direct** the new school policy."
+    ]
+  },
+  {
+    "word": "discuss",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Let's **discuss** the history of the Lost Colony of Roanoke.",
+      "We need to **discuss** the rules for the upcoming game.",
+      "The class will **discuss** the book's ending tomorrow."
+    ]
+  },
+  {
+    "word": "distant",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We could see the **distant** outline of the mountains from the plain.",
+      "She heard a **distant** roar of thunder during the coastal storm.",
+      "My cousin lives in a **distant** part of the state."
+    ]
+  },
+  {
+    "word": "doubt",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I seriously **doubt** the pirate Blackbeard buried treasure near here.",
+      "She has no **doubt** about her own abilities.",
+      "When in **doubt**, choose the safest path."
+    ]
+  },
+  {
+    "word": "drop",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Be careful not to **drop** your phone while taking pictures.",
+      "The temperature is expected to **drop** sharply tonight.",
+      "I watched a single rain **drop** fall from the roof."
+    ]
+  },
+  {
+    "word": "earn",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I want to **earn** enough money to buy a surfboard.",
+      "She worked hard to **earn** the respect of her teammates.",
+      "You must **earn** your grades through study and effort."
+    ]
+  },
+  {
+    "word": "effort",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It took a lot of **effort** to climb that steep hill in the Smokies.",
+      "She put maximum **effort** into winning the race.",
+      "His careful **effort** paid off with a high score."
+    ]
+  },
+  {
+    "word": "elementary",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I am finishing up my last year of **elementary** school.",
+      "She teaches at a local **elementary** school near Raleigh.",
+      "The math problem required only **elementary** calculations."
+    ]
+  },
+  {
+    "word": "enable",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The wings **enable** the bird to fly over the NC coastline.",
+      "The new software will **enable** us to work faster.",
+      "A healthy diet will **enable** you to have more energy."
+    ]
+  },
+  {
+    "word": "entire",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We spent the **entire** day exploring the historic town of Bath.",
+      "The storm destroyed the **entire** crop harvest.",
+      "She read the **entire** book in just two days."
+    ]
+  },
+  {
+    "word": "essential",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Water is **essential** for all life, especially near the ocean.",
+      "It is **essential** that you study for the final exam.",
+      "Communication is an **essential** skill for teamwork."
+    ]
+  },
+  {
+    "word": "event",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The State Fair is the biggest **event** of the year in North Carolina.",
+      "The election was a major **event** in our town's history.",
+      "What time does the sporting **event** start?"
+    ]
+  },
+  {
+    "word": "evidence",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The lost pottery found on the coast is **evidence** of early settlements.",
+      "The detective gathered all the **evidence** at the scene.",
+      "Is there any **evidence** to support your theory?"
+    ]
+  },
+  {
+    "word": "examine",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The marine biologist will **examine** the sea turtle eggs.",
+      "Please **examine** the contract before signing it.",
+      "The doctor will **examine** the patient tomorrow."
+    ]
+  },
+  {
+    "word": "except",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Everyone went to the NC Zoo **except** for Sarah.",
+      "The store is open every day **except** Sunday.",
+      "I finished all my chores **except** for cleaning the garage."
+    ]
+  },
+  {
+    "word": "exist",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Some people wonder if the legend of the Lost Colony truly **exist**s.",
+      "Do aliens **exist** on other planets?",
+      "The old rules no longer **exist**."
+    ]
+  },
+  {
+    "word": "expect",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We **expect** the ferry to the Outer Banks to leave on time.",
+      "What do you **expect** to happen next in the book?",
+      "I **expect** you to be on your best behavior."
+    ]
+  },
+  {
+    "word": "experience",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Visiting the mountains and the coast is a great North Carolina **experience**.",
+      "She gained a lot of work **experience** this summer.",
+      "The fire was a frightening **experience**."
+    ]
+  },
+  {
+    "word": "explain",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Can you **explain** why the state capital is Raleigh?",
+      "The teacher will **explain** the math problem step by step.",
+      "I need to **explain** my reasons for leaving early."
+    ]
+  },
+  {
+    "word": "fail",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Wright brothers tried many times before they finally didn't **fail**.",
+      "She will **fail** the test if she doesn't study.",
+      "The battery began to **fail** shortly after we left."
+    ]
+  },
+  {
+    "word": "fashion",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "She dressed in the latest summer **fashion** for the beach.",
+      "He repaired the broken fence in a unique **fashion**.",
+      "The runway show featured new clothing **fashion**."
+    ]
+  },
+  {
+    "word": "favor",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Can you do me a huge **favor** and get me a funnel cake at the fair?",
+      "The jury voted in **favor** of the defendant.",
+      "She gave out small party **favor**s at her birthday."
+    ]
+  },
+  {
+    "word": "feature",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Great Smoky Mountains are a major natural **feature** of North Carolina.",
+      "The movie will **feature** a famous actor.",
+      "What is the most important **feature** of the new phone?"
+    ]
+  },
+  {
+    "word": "federal",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We learned about the US **federal** government in social studies.",
+      "The National Park Service is a **federal** agency.",
+      "The state must follow all **federal** laws."
+    ]
+  },
+  {
+    "word": "fifty",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The United States has **fifty** states, including North Carolina.",
+      "I found a **fifty** dollar bill on the street.",
+      "The test had exactly **fifty** questions."
+    ]
+  },
+  {
+    "word": "fix",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Can you help me **fix** my bike chain?",
+      "I need to **fix** a date for our trip to Charlotte.",
+      "He used glue to **fix** the broken vase."
+    ]
+  },
+  {
+    "word": "flow",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The river **flow**s all the way to the Atlantic Ocean.",
+      "We watched the slow **flow** of the liquid in the experiment.",
+      "The traffic began to **flow** smoothly after the accident was cleared."
+    ]
+  },
+  {
+    "word": "forget",
+    "grade": 5,
+    "has_asterisk": true,
+    "phrases": [
+      "Do not **forget** your ticket for the Carowinds amusement park.",
+      "I will never **forget** our visit to the lighthouse.",
+      "Please don't **forget** to feed the dog tonight."
+    ]
+  },
+  {
+    "word": "forty",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The distance is about **forty** miles to the next town.",
+      "The movie theater was **forty** years old.",
+      "I will be home in **forty** minutes."
+    ]
+  },
+  {
+    "word": "forward",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The car suddenly lurched **forward**.",
+      "Please **forward** the email about the NC field trip to your parents.",
+      "I look **forward** to seeing you this summer."
+    ]
+  },
+  {
+    "word": "free",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The museum entrance is **free** for all NC residents today.",
+      "The bird was finally **free** to fly away.",
+      "He spoke his mind in a **free** and open manner."
+    ]
+  },
+  {
+    "word": "friend",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "My best **friend** and I are planning a trip to the beach.",
+      "She introduced me to her new **friend**.",
+      "A true **friend** is always there for you."
+    ]
+  },
+  {
+    "word": "general",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **general** opinion is that the mountains are beautiful.",
+      "He was promoted to the rank of **general** in the army.",
+      "The store sells **general** household items."
+    ]
+  },
+  {
+    "word": "gentle",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The ocean waves were very **gentle** on the sound side of the Outer Banks.",
+      "He used a **gentle** touch when petting the kitten.",
+      "The rain was a **gentle** sprinkle, not a downpour."
+    ]
+  },
+  {
+    "word": "govern",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The elected officials **govern** the state of North Carolina.",
+      "The laws **govern** the behavior of the citizens.",
+      "She learned how to **govern** her spending habits."
+    ]
+  },
+  {
+    "word": "graduate",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I can't wait to **graduate** from elementary school!",
+      "She will **graduate** from the University of North Carolina next year.",
+      "He is a college **graduate** with an engineering degree."
+    ]
+  },
+  {
+    "word": "grade",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I am currently in the fifth **grade**.",
+      "She received an A **grade** on her report about NC history.",
+      "The road has a steep upward **grade**."
+    ]
+  },
+  {
+    "word": "greatest",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Wright Brothers made the **greatest** invention in transportation history.",
+      "She is the **greatest** singer I have ever heard.",
+      "His **greatest** fear is heights."
+    ]
+  },
+  {
+    "word": "guard",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Coast **Guard** helps protect our shores and waters.",
+      "The security **guard** stands by the entrance.",
+      "Please **guard** the secret carefully."
+    ]
+  },
+  {
+    "word": "handle",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The door **handle** was cold to the touch.",
+      "I can **handle** this difficult situation on my own.",
+      "Be careful how you **handle** the fragile glass."
+    ]
+  },
+  {
+    "word": "happen",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "What do you think will **happen** next in the pirate story?",
+      "The accident didn't **happen** in our town.",
+      "We need to know exactly when the meeting will **happen**."
+    ]
+  },
+  {
+    "word": "height",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Mount Mitchell is the highest **height** in eastern North America.",
+      "Measure the exact **height** of the wall.",
+      "She is worried about her **height** compared to her friends."
+    ]
+  },
+  {
+    "word": "history",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "North Carolina has a rich **history** of aviation and colonization.",
+      "She loves learning about ancient **history**.",
+      "That old building has a long and interesting **history**."
+    ]
+  },
+  {
+    "word": "however",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It rained on the coast; **however**, we still had fun.",
+      "I want to go to the park; **however**, I must finish my homework first.",
+      "She knew the risks; **however**, she decided to try anyway."
+    ]
+  },
+  {
+    "word": "human",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **human** body is complex and fascinating.",
+      "The Lost Colony involved the disappearance of many **human**s.",
+      "Kindness is a truly **human** quality."
+    ]
+  },
+  {
+    "word": "imagine",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Can you **imagine** what life was like in colonial North Carolina?",
+      "I can't **imagine** a better place to spend the summer.",
+      "Try to **imagine** the scale of the Biltmore Estate."
+    ]
+  },
+  {
+    "word": "immediately",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We must leave for the airport **immediately** to catch the flight.",
+      "She recognized her friend **immediately** across the crowded fair.",
+      "Please reply to the message **immediately**."
+    ]
+  },
+  {
+    "word": "important",
+    "grade": 5,
+    "has_asterisk": true,
+    "phrases": [
+      "The first flight at Kitty Hawk was an **important** moment in history.",
+      "It is **important** to eat healthy foods every day.",
+      "She has an **important** meeting with the school principal."
+    ]
+  },
+  {
+    "word": "increase",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We expect the number of NC tourists to **increase** this year.",
+      "There was a large **increase** in local real estate prices.",
+      "They decided to **increase** the speed of the machine."
+    ]
+  },
+  {
+    "word": "independent",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The United States became an **independent** nation in 1776.",
+      "She learned how to be more **independent** this summer.",
+      "The school hired an **independent** consultant for the review."
+    ]
+  },
+  {
+    "word": "indicate",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The map will **indicate** where the hiking trail begins.",
+      "His frown seemed to **indicate** he was unhappy.",
+      "The arrows **indicate** the direction you should follow."
+    ]
+  },
+  {
+    "word": "industry",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The research triangle area is known for its technology **industry**.",
+      "The fishing **industry** is important to the NC coast.",
+      "She works in the healthcare **industry**."
+    ]
+  },
+  {
+    "word": "instead",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We went to the beach **instead** of the mountains for vacation.",
+      "She chose water **instead** of soda.",
+      "I finished my work early, **instead** of waiting until the last minute."
+    ]
+  },
+  {
+    "word": "interest",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I have a great **interest** in the history of Blackbeard the pirate.",
+      "The bank pays a small **interest** on your savings.",
+      "The topic didn't hold her **interest** for long."
+    ]
+  },
+  {
+    "word": "investigate",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The police will **investigate** the cause of the traffic accident.",
+      "We need to **investigate** why the computer is running so slowly.",
+      "The class decided to **investigate** the local wildlife."
+    ]
+  },
+  {
+    "word": "knowledge",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "She has a lot of **knowledge** about North Carolina state parks.",
+      "Reading books is a good way to gain **knowledge**.",
+      "The scientist shared his valuable **knowledge** with the team."
+    ]
+  },
+  {
+    "word": "large",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "North Carolina has a very **large** variety of different landscapes.",
+      "She baked a **large** cake for the class party.",
+      "The elephant is a very **large** animal."
+    ]
+  },
+  {
+    "word": "lead",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "He will **lead** the way up the mountain trail.",
+      "The road **lead**s directly to the town of Boone.",
+      "The politician hopes to **lead** the country someday."
+    ]
+  },
+  {
+    "word": "league",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Our basketball team won the local youth **league** championship.",
+      "The two friends were in a different **league** of skill.",
+      "The professional baseball **league** has many talented players."
+    ]
+  },
+  {
+    "word": "legal",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It is not **legal** to drive without a license.",
+      "The new contract needs a **legal** review.",
+      "She sought **legal** advice from a professional."
+    ]
+  },
+  {
+    "word": "level",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The ocean **level** seems to rise and fall with the tides.",
+      "She is studying at an advanced **level** in math.",
+      "Use a tool to make sure the shelf is perfectly **level**."
+    ]
+  },
+  {
+    "word": "local",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We enjoy eating fresh seafood from **local** NC fishermen.",
+      "The **local** library is open until 8 PM.",
+      "She knows all the **local** history of the town."
+    ]
+  },
+  {
+    "word": "majority",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **majority** of the students voted for the class trip to Carowinds.",
+      "A large **majority** of the state lives east of the mountains.",
+      "The bill was passed by a simple **majority**."
+    ]
+  },
+  {
+    "word": "major",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Tobacco was once a **major** crop in North Carolina.",
+      "She decided to **major** in biology at college.",
+      "The hurricane caused **major** damage to the coastal towns."
+    ]
+  },
+  {
+    "word": "market",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We bought fresh produce at the farmers **market** in Asheville.",
+      "She plans to **market** her new craft items online.",
+      "The stock **market** opened higher today."
+    ]
+  },
+  {
+    "word": "mean",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "What does the word 'Tarheel' **mean**?",
+      "The average, or **mean**, score on the test was 85.",
+      "She didn't **mean** to hurt your feelings."
+    ]
+  },
+  {
+    "word": "measure",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We need to **measure** the exact distance from here to the coast.",
+      "The rain gauge is used to **measure** precipitation.",
+      "She took a drastic **measure** to fix the problem."
+    ]
+  },
+  {
+    "word": "mention",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "She forgot to **mention** her birthday party next week.",
+      "Did I **mention** that the NC State Fair has the best food?",
+      "The speaker made a brief **mention** of the historical facts."
+    ]
+  },
+  {
+    "word": "military",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Fort Bragg is a large **military** base in North Carolina.",
+      "He plans to join the **military** after high school.",
+      "The **military** uses special codes for communication."
+    ]
+  },
+  {
+    "word": "minute",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I only need one **minute** to finish my packing.",
+      "The secretary took the **minute**s of the last meeting.",
+      "Wait a **minute**, I think I forgot something!"
+    ]
+  },
+  {
+    "word": "moral",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **moral** of the story is to always be honest.",
+      "She has a strong sense of **moral** duty and right versus wrong.",
+      "The team's **moral** was low after the tough loss."
+    ]
+  },
+  {
+    "word": "necessary",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It is **necessary** to bring sunscreen to the beach.",
+      "Food and water are **necessary** for survival.",
+      "She took the **necessary** steps to complete the project."
+    ]
+  },
+  {
+    "word": "neither",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I like **neither** mountains nor beaches, I prefer cities!",
+      "**Neither** answer on the test was correct.",
+      "She wore **neither** a coat nor a sweater."
+    ]
+  },
+  {
+    "word": "northeast",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Outer Banks are located in the **northeast** corner of North Carolina.",
+      "We drove **northeast** toward the state border.",
+      "The weather report showed the storm moving **northeast**."
+    ]
+  },
+  {
+    "word": "observe",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We will **observe** the migration of the birds near the coast.",
+      "It is important to **observe** the safety rules.",
+      "The scientist will **observe** the reaction in the lab."
+    ]
+  },
+  {
+    "word": "occasion",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The first flight at Kitty Hawk was a momentous **occasion**.",
+      "I only wear my best dress on a special **occasion**.",
+      "She used the old family recipe on this festive **occasion**."
+    ]
+  },
+  {
+    "word": "occur",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The meeting will **occur** on Friday morning.",
+      "When did the famous battle **occur** in NC history?",
+      "The same mistake tends to **occur** repeatedly."
+    ]
+  },
+  {
+    "word": "opinion",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "What is your **opinion** on the best NC university?",
+      "Everyone is entitled to their own **opinion**.",
+      "She gave her honest **opinion** about the new policy."
+    ]
+  },
+  {
+    "word": "opposite",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The coast is the **opposite** of the mountains.",
+      "She chose the color that was the **opposite** of red.",
+      "We live on the **opposite** sides of the street."
+    ]
+  },
+  {
+    "word": "ordinary",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It was just an **ordinary** Thursday afternoon in our town.",
+      "The museum displayed many beautiful, non-**ordinary** artifacts.",
+      "She is an **ordinary** person with an extraordinary talent."
+    ]
+  },
+  {
+    "word": "ought",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "You **ought** to try the famous NC barbecue before you leave.",
+      "We **ought** to study harder for the next test.",
+      "She **ought** to apologize for her mistake."
+    ]
+  },
+  {
+    "word": "paragraph",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Read the first **paragraph** of the chapter about the Lost Colony.",
+      "Please write one **paragraph** about your summer vacation.",
+      "The final **paragraph** summarizes the entire essay."
+    ]
+  },
+  {
+    "word": "particular",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Is there a **particular** NC beach you want to visit?",
+      "She paid **particular** attention to the teacher's instructions.",
+      "I don't have any **particular** plans for the weekend."
+    ]
+  },
+  {
+    "word": "peace",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The mountain trails offer quiet and **peace**ful isolation.",
+      "We wish for **peace** throughout the entire world.",
+      "The two countries signed a long-lasting **peace** treaty."
+    ]
+  },
+  {
+    "word": "permit",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "You need a fishing **permit** to fish in the state park.",
+      "The park rangers will not **permit** camping outside the grounds.",
+      "Does the law **permit** this type of action?"
+    ]
+  },
+  {
+    "word": "pick",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "She helped **pick** apples at the orchard in the western part of NC.",
+      "You can **pick** any color you like for the wall.",
+      "I need to **pick** up my little brother from school."
+    ]
+  },
+  {
+    "word": "picture",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "She drew a **picture** of the Hatteras Lighthouse.",
+      "Try to **picture** the original settlers of Roanoke Island.",
+      "I took a great **picture** of the sunset."
+    ]
+  },
+  {
+    "word": "plain",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The eastern part of NC is mostly coastal **plain**.",
+      "Her explanation was very **plain** and easy to understand.",
+      "She wore a **plain** white shirt with no design."
+    ]
+  },
+  {
+    "word": "position",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The map shows the current **position** of our boat.",
+      "He applied for a management **position** at the new factory.",
+      "Take your **position** on the starting line of the race."
+    ]
+  },
+  {
+    "word": "possible",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It is **possible** that we will see a bear in the mountains.",
+      "I will finish the assignment as soon as **possible**.",
+      "The rescue team did everything **possible** to save the climber."
+    ]
+  },
+  {
+    "word": "practically",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The trip to the beach is **practically** an annual family tradition.",
+      "I was **practically** asleep during the long lecture.",
+      "She can **practically** touch the high shelf."
+    ]
+  },
+  {
+    "word": "prevent",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The fence will **prevent** the dog from running into the road.",
+      "We took steps to **prevent** the spread of the cold.",
+      "The goal keeper tried to **prevent** the soccer goal."
+    ]
+  },
+  {
+    "word": "pride",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "North Carolina takes great **pride** in being the 'First in Flight' state.",
+      "He swelled with **pride** after winning the award.",
+      "She swallowed her **pride** and asked for help."
+    ]
+  },
+  {
+    "word": "private",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Biltmore Estate is technically a **private** home and property.",
+      "I need to have a **private** conversation with the teacher.",
+      "She attends a **private** school near Charlotte."
+    ]
+  },
+  {
+    "word": "process",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We studied the **process** of making bricks in the colonial era.",
+      "The application **process** takes about two weeks.",
+      "Cooking is a chemical **process**."
+    ]
+  },
+  {
+    "word": "produce",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "NC farms **produce** many different kinds of fruits and vegetables.",
+      "The factory can **produce** a thousand cars per day.",
+      "The play was the best **produce**d show of the year."
+    ]
+  },
+  {
+    "word": "proper",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Make sure you follow the **proper** rules for the park.",
+      "The teacher taught us the **proper** way to hold the pencil.",
+      "He never received **proper** training for the job."
+    ]
+  },
+  {
+    "word": "protect",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The National Seashore helps **protect** the beaches of the Outer Banks.",
+      "A helmet is designed to **protect** your head.",
+      "We must **protect** the endangered species of animals."
+    ]
+  },
+  {
+    "word": "provision",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We made **provision**s for food and water for the mountain trip.",
+      "The contract includes a special **provision** for early cancellation.",
+      "The law includes a **provision** for citizen input."
+    ]
+  },
+  {
+    "word": "public",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The NC Zoo is open to the **public** every day.",
+      "She spoke to the entire school in a **public** address.",
+      "We rely on the **public** transportation system."
+    ]
+  },
+  {
+    "word": "race",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The NASCAR track in Charlotte hosts many famous car **race**s.",
+      "She won the swimming **race** by two seconds.",
+      "People of every **race** and background were invited."
+    ]
+  },
+  {
+    "word": "raise",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Don't **raise** your voice when you are talking to the referee.",
+      "The farmers **raise** pigs and cattle on the local farms.",
+      "We plan to **raise** money for the school trip."
+    ]
+  },
+  {
+    "word": "range",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The Blue Ridge Mountains are a vast mountain **range**.",
+      "The store sells a wide **range** of local NC products.",
+      "The target is out of firing **range**."
+    ]
+  },
+  {
+    "word": "rather",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I would **rather** go to the beach than the park today.",
+      "The movie was **rather** boring, to be honest.",
+      "She decided to stay home **rather** than go out."
+    ]
+  },
+  {
+    "word": "reach",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We will **reach** the top of Pilot Mountain by noon.",
+      "Can you **reach** the highest shelf for me?",
+      "The message didn't **reach** him until the next day."
+    ]
+  },
+  {
+    "word": "recent",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **recent** storm caused damage along the Outer Banks.",
+      "I read a **recent** article about local history.",
+      "This is a photo from our most **recent** trip."
+    ]
+  },
+  {
+    "word": "regard",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I have high **regard** for the people who settled the first colonies.",
+      "Please give my kindest **regard**s to your family.",
+      "She didn't **regard** the warning as serious."
+    ]
+  },
+  {
+    "word": "region",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The mountain **region** of NC is known for its beautiful trails.",
+      "This **region** experiences heavy snowfall in winter.",
+      "We explored the coastal **region** last summer."
+    ]
+  },
+  {
+    "word": "regular",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The bus follows a **regular** route through downtown Charlotte.",
+      "She is a **regular** customer at the local farmers market.",
+      "You should make **regular** visits to the dentist."
+    ]
+  },
+  {
+    "word": "relate",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The historical facts **relate** to the founding of North Carolina.",
+      "Can you **relate** to the character in the story?",
+      "The two ideas seem to **relate** to each other."
+    ]
+  },
+  {
+    "word": "remain",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The mystery of the Lost Colony still **remain**s unsolved.",
+      "Please **remain** seated until the plane stops.",
+      "Only a few ancient artifacts **remain** after the fire."
+    ]
+  },
+  {
+    "word": "republic",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The United States is a democratic **republic**.",
+      "We learned about different forms of government, including a **republic**.",
+      "Citizens vote for their leaders in a **republic**."
+    ]
+  },
+  {
+    "word": "require",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The camping trip will **require** lots of preparation.",
+      "The test will **require** a lot of concentration.",
+      "The school rules **require** students to wear a uniform."
+    ]
+  },
+  {
+    "word": "respect",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Always show **respect** for the park rules and wildlife.",
+      "She earned the **respect** of her entire team.",
+      "We must **respect** the opinions of others."
+    ]
+  },
+  {
+    "word": "responsible",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The older students are **responsible** for guiding the younger ones.",
+      "You must be **responsible** with your school laptop.",
+      "Who is **responsible** for the lost supplies?"
+    ]
+  },
+  {
+    "word": "result",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **result** of the football game was a win for the home team.",
+      "The experiment's **result**s were exactly as expected.",
+      "She got lost as a **result** of following the wrong map."
+    ]
+  },
+  {
+    "word": "rule",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Always follow the safety **rule**s when swimming in the ocean.",
+      "The judge's **rule** was final and could not be appealed.",
+      "The new principal will **rule** the school fairly."
+    ]
+  },
+  {
+    "word": "school",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "My **school** is planning a trip to the NC Museum of Natural Sciences.",
+      "I love my local elementary **school**.",
+      "After finishing high **school**, I want to go to college."
+    ]
+  },
+  {
+    "word": "scientific",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We conducted a **scientific** experiment on local plants.",
+      "She read a **scientific** journal article about the ocean floor.",
+      "The new discovery is a major **scientific** breakthrough."
+    ]
+  },
+  {
+    "word": "section",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Read the next **section** of the book for homework.",
+      "The coastal **section** of the state is very flat.",
+      "She sat in the front **section** of the movie theater."
+    ]
+  },
+  {
+    "word": "sense",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It makes no **sense** to go hiking without water in the summer heat.",
+      "I have a good **sense** of direction in the mountains.",
+      "Smell is one of the five **sense**s."
+    ]
+  },
+  {
+    "word": "service",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The US Forest **Service** manages the national forests in North Carolina.",
+      "He received excellent customer **service** at the restaurant.",
+      "The church held a Sunday morning **service**."
+    ]
+  },
+  {
+    "word": "short",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The drive to the beach is relatively **short**.",
+      "I prefer to wear **short** sleeves in the summer.",
+      "The movie was surprisingly **short**."
+    ]
+  },
+  {
+    "word": "similar",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The mountain regions of NC and TN are very **similar**.",
+      "The two houses are **similar** in design but different in color.",
+      "She chose a **similar** pattern for her dress."
+    ]
+  },
+  {
+    "word": "simply",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I **simply** love visiting the North Carolina Zoo!",
+      "The solution was **simply** to turn the key.",
+      "She explained the difficult concept very **simply**."
+    ]
+  },
+  {
+    "word": "single",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I did not find a **single** seashell on the beach today.",
+      "The apartment building is made up of **single**-family units.",
+      "He preferred to travel **single** rather than with a group."
+    ]
+  },
+  {
+    "word": "soft",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The sand on the Carolina beach was very **soft** under my feet.",
+      "She spoke in a low, **soft** voice.",
+      "The sweater is made of a very **soft** wool blend."
+    ]
+  },
+  {
+    "word": "solve",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The detective is determined to **solve** the cold case.",
+      "Can you **solve** this riddle about the state bird?",
+      "We need to **solve** the problem of traffic congestion downtown."
+    ]
+  },
+  {
+    "word": "southwest",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We are driving **southwest** toward the Cherokee reservation.",
+      "The storm is moving to the **southwest** of the state.",
+      "The new factory is located in the **southwest** corner of the city."
+    ]
+  },
+  {
+    "word": "space",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The mountains offer a lot of open **space** for hiking and camping.",
+      "She needs more **space** in her locker for her books.",
+      "The rocket will travel into outer **space**."
+    ]
+  },
+  {
+    "word": "special",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We are celebrating a **special** NC State holiday today.",
+      "She has a **special** talent for singing.",
+      "The store is offering a **special** discount this week."
+    ]
+  },
+  {
+    "word": "steep",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Be careful when hiking on the **steep** part of the mountain trail.",
+      "The roof of the old house was very **steep**.",
+      "The price of the tickets was a bit too **steep**."
+    ]
+  },
+  {
+    "word": "straight",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The road to the coast is completely **straight** for miles.",
+      "She drew a perfectly **straight** line with a ruler.",
+      "Tell me the story **straight**, without any exaggeration."
+    ]
+  },
+  {
+    "word": "student",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "Every **student** at our school loves the field trips.",
+      "She is a very dedicated and hardworking **student**.",
+      "The new **student** just moved from another state."
+    ]
+  },
+  {
+    "word": "suggest",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I **suggest** we try the NC-style barbecue for dinner.",
+      "The evidence seems to **suggest** he is innocent.",
+      "Can you **suggest** a good book for me to read?"
+    ]
+  },
+  {
+    "word": "support",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We need to **support** our local North Carolina small businesses.",
+      "The bridge uses steel beams for **support**.",
+      "I will always **support** your decisions."
+    ]
+  },
+  {
+    "word": "supply",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We must **supply** enough water for the long hike.",
+      "The store is low on school **supply**es.",
+      "The town gets its water **supply** from the nearby river."
+    ]
+  },
+  {
+    "word": "surely",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The sun will **surely** come out after this quick coastal rain shower.",
+      "You will **surely** pass the test if you study hard.",
+      "He smiled, knowing he had **surely** won the game."
+    ]
+  },
+  {
+    "word": "system",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The state government uses a complex legal **system**.",
+      "We learned about the solar **system** in science class.",
+      "The computer **system** crashed unexpectedly."
+    ]
+  },
+  {
+    "word": "team",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "My favorite basketball **team** in North Carolina is the Tar Heels.",
+      "Working together as a **team** is important.",
+      "The construction **team** finished the house early."
+    ]
+  },
+  {
+    "word": "thirteen",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The original colonies included North Carolina and twelve others.",
+      "She will be **thirteen** years old next month.",
+      "I only have **thirteen** dollars left in my wallet."
+    ]
+  },
+  {
+    "word": "thirty",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The drive from Charlotte to the airport takes **thirty** minutes.",
+      "The bus leaves at eight **thirty** in the morning.",
+      "The old building is over **thirty** years old."
+    ]
+  },
+  {
+    "word": "though",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "It looks like rain, **though** the forecast said sunshine.",
+      "Even **though** it was cold, we still went to the coast.",
+      "She acted as **though** nothing had happened."
+    ]
+  },
+  {
+    "word": "train",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We watched the long freight **train** pass through the mountain pass.",
+      "The coach needs to **train** the team harder for the next game.",
+      "She took the high-speed **train** to the capital city."
+    ]
+  },
+  {
+    "word": "treat",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I love to **treat** myself to a Carolina barbecue sandwich.",
+      "Please **treat** everyone with kindness and respect.",
+      "The dentist will **treat** your toothache next week."
+    ]
+  },
+  {
+    "word": "trouble",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The sailor got into **trouble** during the storm at sea.",
+      "She took a lot of **trouble** to make the cake perfect.",
+      "If you need help, don't **trouble** yourself, just ask."
+    ]
+  },
+  {
+    "word": "twelfth",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The party is scheduled for the **twelfth** of December.",
+      "She is turning **twelfth** years old next month.",
+      "He finished in the **twelfth** position in the marathon."
+    ]
+  },
+  {
+    "word": "unless",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "We can't go to the NC Zoo **unless** we finish our chores first.",
+      "Do not open the box **unless** it is an emergency.",
+      "I will be there on time **unless** something unexpected happens."
+    ]
+  },
+  {
+    "word": "useful",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The compass was a very **useful** tool on our mountain hike.",
+      "Learning a new language is a **useful** skill.",
+      "She keeps many **useful** tools in her backpack."
+    ]
+  },
+  {
+    "word": "various",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The NC State Fair had **various** kinds of fried foods to try.",
+      "She tried out for **various** sports teams this year.",
+      "The library offers **various** services to the community."
+    ]
+  },
+  {
+    "word": "whether",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I can't decide **whether** to visit the mountains or the coast.",
+      "Ask him **whether** he is coming to the party or not.",
+      "We are unsure **whether** the trip is still happening."
+    ]
+  },
+  {
+    "word": "whole",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "The **whole** class cheered for the Carolina Hurricanes.",
+      "She spent the **whole** morning collecting seashells on the beach.",
+      "I ate the **whole** pizza by myself."
+    ]
+  },
+  {
+    "word": "wife",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "His **wife** works as a teacher at the local school.",
+      "She is a devoted mother and loving **wife**.",
+      "The retired general and his **wife** moved to Asheville."
+    ]
+  },
+  {
+    "word": "wouldn’t",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "I **wouldn't** miss the chance to see the wild horses on the Outer Banks.",
+      "She **wouldn't** tell me her biggest secret.",
+      "The old car **wouldn't** start this morning."
+    ]
+  },
+  {
+    "word": "wrote",
+    "grade": 5,
+    "has_asterisk": false,
+    "phrases": [
+      "She **wrote** a lovely story about the Great Smoky Mountains.",
+      "He **wrote** the answer on the whiteboard.",
+      "The famous NC author **wrote** his best novel last year."
+    ]
+  }
+]

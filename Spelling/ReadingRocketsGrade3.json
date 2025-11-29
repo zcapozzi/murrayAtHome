@@ -1,0 +1,3162 @@
+[
+  {
+    "word": "able",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I am able to lift the heavy box.",
+      "She will be able to join us later.",
+      "Are you able to see the picture clearly?"
+    ]
+  },
+  {
+    "word": "above",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sun is above the clouds.",
+      "Please write your name above the line.",
+      "The airplane flew high above the city."
+    ]
+  },
+  {
+    "word": "afraid",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I am afraid of spiders.",
+      "She was afraid to speak in public.",
+      "Don't be afraid to try something new."
+    ]
+  },
+  {
+    "word": "afternoon",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "We will meet in the afternoon.",
+      "I usually take a nap every afternoon.",
+      "Let's play outside this afternoon."
+    ]
+  },
+  {
+    "word": "again",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Please try again if you fail.",
+      "I hope to see you again soon.",
+      "She asked him to read the story again."
+    ]
+  },
+  {
+    "word": "age",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What is the minimum age for driving?",
+      "He looks younger than his age.",
+      "The furniture showed its age."
+    ]
+  },
+  {
+    "word": "air",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Breathe in the fresh air.",
+      "The balloon floated up into the air.",
+      "I need to fill the tire with air."
+    ]
+  },
+  {
+    "word": "airplane",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I saw an airplane flying overhead.",
+      "We took an airplane on our trip.",
+      "He folded a paper airplane."
+    ]
+  },
+  {
+    "word": "almost",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "It is almost time for lunch.",
+      "She has almost finished the book.",
+      "I was almost late for the meeting."
+    ]
+  },
+  {
+    "word": "alone",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The child was playing all alone.",
+      "I prefer to work on this project alone.",
+      "Leave the cake alone until dinner."
+    ]
+  },
+  {
+    "word": "along",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I walked along the beach at sunset.",
+      "Bring your coat along with you.",
+      "She sang along to the music."
+    ]
+  },
+  {
+    "word": "already",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I have already eaten dinner.",
+      "They are already gone.",
+      "She had already paid the bill."
+    ]
+  },
+  {
+    "word": "also",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is a doctor and also a writer.",
+      "I like chocolate, and I also like vanilla.",
+      "He also came to the party."
+    ]
+  },
+  {
+    "word": "always",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I always remember my grandmother's birthday.",
+      "She is always kind to others.",
+      "The sun always rises in the east."
+    ]
+  },
+  {
+    "word": "animal",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "A lion is a wild animal.",
+      "We learned about a new kind of animal.",
+      "The child loves every type of animal."
+    ]
+  },
+  {
+    "word": "another",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Can I have another piece of cake?",
+      "He found another way to solve the puzzle.",
+      "We stayed for another hour."
+    ]
+  },
+  {
+    "word": "anything",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I didn't hear anything outside.",
+      "Do you need anything from the store?",
+      "She can do anything she sets her mind to."
+    ]
+  },
+  {
+    "word": "around",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The earth revolves around the sun.",
+      "Look around and tell me what you see.",
+      "The dog chased the ball around the yard."
+    ]
+  },
+  {
+    "word": "art",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I enjoy taking art class.",
+      "She is talented at painting art.",
+      "We visited a museum of modern art."
+    ]
+  },
+  {
+    "word": "aunt",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "My aunt is coming to visit next week.",
+      "I gave my aunt a birthday card.",
+      "Aunt Jane is a great cook."
+    ]
+  },
+  {
+    "word": "balloon",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The red balloon floated high up.",
+      "I held onto the balloon string tightly.",
+      "We bought a helium balloon for the party."
+    ]
+  },
+  {
+    "word": "bark",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I heard the dog bark loudly.",
+      "The bark of the tree is rough.",
+      "She told the dog not to bark at the mailman."
+    ]
+  },
+  {
+    "word": "barn",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The farmer kept hay in the barn.",
+      "The red barn stood out in the field.",
+      "We visited the animals in the barn."
+    ]
+  },
+  {
+    "word": "basket",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I carried the picnic in a basket.",
+      "The kitten was sleeping in the laundry basket.",
+      "She put the apples in the woven basket."
+    ]
+  },
+  {
+    "word": "beach",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We swam in the ocean at the beach.",
+      "I love walking on the beach at dawn.",
+      "Let's build a sandcastle on the beach."
+    ]
+  },
+  {
+    "word": "bear",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "A brown bear was eating berries.",
+      "I can bear the pain for a little while.",
+      "Be careful; the table can't bear much weight."
+    ]
+  },
+  {
+    "word": "because",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I was late because the bus broke down.",
+      "She laughed because the joke was funny.",
+      "We stayed inside because of the rain."
+    ]
+  },
+  {
+    "word": "become",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I want to become a firefighter.",
+      "The caterpillar will become a butterfly.",
+      "He will soon become a father."
+    ]
+  },
+  {
+    "word": "began",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The music began exactly at seven.",
+      "She began to feel sleepy after lunch.",
+      "We began the project with a brainstorming session."
+    ]
+  },
+  {
+    "word": "begin",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We should begin the meeting now.",
+      "Where does the story begin?",
+      "Please begin writing when I say so."
+    ]
+  },
+  {
+    "word": "behind",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The dog hid behind the sofa.",
+      "I left my keys behind the counter.",
+      "She was running behind schedule."
+    ]
+  },
+  {
+    "word": "believe",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I believe in magic.",
+      "Do you believe what he said?",
+      "She didn't believe the weather forecast."
+    ]
+  },
+  {
+    "word": "below",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The basement is below the ground floor.",
+      "Write your answers below the question.",
+      "The temperature dropped below freezing."
+    ]
+  },
+  {
+    "word": "belt",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Fasten your seat belt before driving.",
+      "I need a new belt for my pants.",
+      "The black belt is a sign of mastery."
+    ]
+  },
+  {
+    "word": "better",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I feel much better now.",
+      "She is a better singer than I am.",
+      "Try to make a better effort next time."
+    ]
+  },
+  {
+    "word": "birthday",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Today is my birthday.",
+      "She received many gifts for her birthday.",
+      "We celebrated his fifth birthday."
+    ]
+  },
+  {
+    "word": "body",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Exercise is good for your body.",
+      "The main body of the report is too long.",
+      "She moved her whole body to dance."
+    ]
+  },
+  {
+    "word": "bones",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We have many bones in our body.",
+      "The dog chewed on the chicken bones.",
+      "Calcium helps make your bones strong."
+    ]
+  },
+  {
+    "word": "born",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I was born in the summer.",
+      "The baby was born happy and healthy.",
+      "She was born to be a great artist."
+    ]
+  },
+  {
+    "word": "bought",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I bought a new hat yesterday.",
+      "She bought groceries at the market.",
+      "We bought tickets for the concert."
+    ]
+  },
+  {
+    "word": "bread",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We bought a loaf of fresh bread.",
+      "I like to eat toast with butter on the bread.",
+      "She made a sandwich with whole wheat bread."
+    ]
+  },
+  {
+    "word": "bright",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sun is very bright today.",
+      "She wore a bright yellow dress.",
+      "He is a bright student and learns quickly."
+    ]
+  },
+  {
+    "word": "broke",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The vase broke when it fell.",
+      "He broke his arm during the game.",
+      "The dam broke, causing a flood."
+    ]
+  },
+  {
+    "word": "brought",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "She brought flowers to her mother.",
+      "I brought my umbrella because it looked like rain.",
+      "The dog brought the stick back to me."
+    ]
+  },
+  {
+    "word": "busy",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I was too busy to answer the phone.",
+      "The supermarket is busy on Saturdays.",
+      "A bee is a very busy insect."
+    ]
+  },
+  {
+    "word": "cabin",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We stayed in a small wooden cabin.",
+      "The cruise ship had a luxury cabin.",
+      "The hunter built a cabin deep in the woods."
+    ]
+  },
+  {
+    "word": "cage",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The bird flew out of its cage.",
+      "We put the hamster back in its cage.",
+      "The animals were kept in a large cage."
+    ]
+  },
+  {
+    "word": "camp",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We set up camp by the river.",
+      "I went to summer camp for two weeks.",
+      "Let's camp out in the backyard tonight."
+    ]
+  },
+  {
+    "word": "can’t",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I can't open this jar.",
+      "She can't come to the party.",
+      "We can't be late for the movie."
+    ]
+  },
+  {
+    "word": "care",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Take care of yourself.",
+      "She shows great care for her garden.",
+      "I don't care what color you choose."
+    ]
+  },
+  {
+    "word": "carry",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Can you carry this bag for me?",
+      "The wind will carry the seed far away.",
+      "She needs help to carry all the books."
+    ]
+  },
+  {
+    "word": "catch",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Try to catch the ball.",
+      "He ran to catch the bus.",
+      "I hope I don't catch a cold."
+    ]
+  },
+  {
+    "word": "cattle",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The rancher raised cattle for beef.",
+      "A herd of cattle grazed in the pasture.",
+      "Cattle were moving slowly down the road."
+    ]
+  },
+  {
+    "word": "cave",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We explored a dark, cold cave.",
+      "A bear sleeps in the cave during winter.",
+      "The early humans lived in a cave."
+    ]
+  },
+  {
+    "word": "children",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The children are playing outside.",
+      "She has three children.",
+      "We read books to the young children."
+    ]
+  },
+  {
+    "word": "class",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I enjoy my math class.",
+      "The entire class went on a field trip.",
+      "She is the best student in her class."
+    ]
+  },
+  {
+    "word": "close",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Please close the door tightly.",
+      "The library is close to my house.",
+      "She is a close friend of mine."
+    ]
+  },
+  {
+    "word": "cloth",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I wiped the table with a damp cloth.",
+      "The fabric was a smooth, silky cloth.",
+      "She covered the cake with a clean cloth."
+    ]
+  },
+  {
+    "word": "coal",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The train was powered by coal.",
+      "Coal is a fossil fuel.",
+      "They burned coal to heat the house."
+    ]
+  },
+  {
+    "word": "color",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What is your favorite color?",
+      "I need to color the picture with crayons.",
+      "She chose a bright blue color."
+    ]
+  },
+  {
+    "word": "corner",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The cat hid in the corner of the room.",
+      "Turn the corner at the traffic light.",
+      "He bumped his elbow on the sharp corner."
+    ]
+  },
+  {
+    "word": "cotton",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "This shirt is made of soft cotton.",
+      "The fields were white with cotton plants.",
+      "I cleaned the cut with cotton and alcohol."
+    ]
+  },
+  {
+    "word": "cover",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please cover the food to keep it warm.",
+      "The book has a blue cover.",
+      "Snow will cover the ground tonight."
+    ]
+  },
+  {
+    "word": "dark",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "It gets dark very early in winter.",
+      "I am afraid of the dark.",
+      "She has long, dark hair."
+    ]
+  },
+  {
+    "word": "desert",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The cactus grows in the desert.",
+      "The Sahara is a vast, hot desert.",
+      "They had to desert the sinking ship."
+    ]
+  },
+  {
+    "word": "didn’t",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I didn't hear the doorbell ring.",
+      "She didn't know the answer to the question.",
+      "We didn't go to the party last night."
+    ]
+  },
+  {
+    "word": "dinner",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What are we having for dinner?",
+      "Dinner will be ready at six o'clock.",
+      "We invited friends over for dinner."
+    ]
+  },
+  {
+    "word": "dishes",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please help me wash the dishes.",
+      "We cleared the dishes from the table.",
+      "She learned to cook many different dishes."
+    ]
+  },
+  {
+    "word": "does",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What does this word mean?",
+      "He does his homework every day.",
+      "Does she know the way to the park?"
+    ]
+  },
+  {
+    "word": "done",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Are you done with your work?",
+      "The cake is done baking.",
+      "I have done all my chores."
+    ]
+  },
+  {
+    "word": "don’t",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Don't forget your keys.",
+      "I don't think it will rain.",
+      "We don't have enough time."
+    ]
+  },
+  {
+    "word": "dragon",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The story was about a brave knight and a dragon.",
+      "A dragon is a mythical creature.",
+      "I saw a picture of a fire-breathing dragon."
+    ]
+  },
+  {
+    "word": "draw",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I like to draw pictures of animals.",
+      "Can you draw a straight line?",
+      "The car can draw a lot of attention."
+    ]
+  },
+  {
+    "word": "dream",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I had a strange dream last night.",
+      "She hopes to achieve her lifelong dream.",
+      "I often dream about flying."
+    ]
+  },
+  {
+    "word": "drink",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I need a cold drink of water.",
+      "It is important to drink plenty of fluids.",
+      "What do you want to drink with dinner?"
+    ]
+  },
+  {
+    "word": "early",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I woke up early this morning.",
+      "The train arrived ten minutes early.",
+      "She finished her project early."
+    ]
+  },
+  {
+    "word": "earth",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The earth is the third planet from the sun.",
+      "We dug into the damp earth to plant a seed.",
+      "The scientist studied the crust of the earth."
+    ]
+  },
+  {
+    "word": "east",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sun rises in the east.",
+      "We drove east for two hours.",
+      "The wind blew from the east."
+    ]
+  },
+  {
+    "word": "eight",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The number after seven is eight.",
+      "I have eight crayons in this box.",
+      "She is eight years old."
+    ]
+  },
+  {
+    "word": "even",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I can't even open this bottle.",
+      "The surfaces must be even and smooth.",
+      "Even though it rained, we still went outside."
+    ]
+  },
+  {
+    "word": "ever",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Have you ever seen a shooting star?",
+      "It was the best day ever.",
+      "I will always love you forever and ever."
+    ]
+  },
+  {
+    "word": "every",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I go to the library every week.",
+      "Every student must complete the assignment.",
+      "She knows every word to the song."
+    ]
+  },
+  {
+    "word": "everyone",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Everyone clapped after the performance.",
+      "Is everyone ready to leave now?",
+      "She invited everyone in her class."
+    ]
+  },
+  {
+    "word": "everything",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I packed everything I need for the trip.",
+      "Everything will be fine.",
+      "She knows everything about horses."
+    ]
+  },
+  {
+    "word": "eyes",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She has beautiful blue eyes.",
+      "Close your eyes and make a wish.",
+      "The doctor checked my eyes."
+    ]
+  },
+  {
+    "word": "face",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She washed her face before bed.",
+      "He had a serious look on his face.",
+      "I can't wait to face the new challenges."
+    ]
+  },
+  {
+    "word": "family",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I love spending time with my family.",
+      "The dog is part of our family.",
+      "She has a very large extended family."
+    ]
+  },
+  {
+    "word": "feeling",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I have a strange feeling about this.",
+      "What kind of feeling do you have?",
+      "She was feeling happy and energized."
+    ]
+  },
+  {
+    "word": "felt",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I felt very sleepy after lunch.",
+      "The jacket was made of thick felt material.",
+      "She felt a sudden urge to run."
+    ]
+  },
+  {
+    "word": "few",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I only have a few dollars left.",
+      "A few people arrived late.",
+      "We stayed for a few more minutes."
+    ]
+  },
+  {
+    "word": "fight",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We watched the boxers fight in the ring.",
+      "I won't fight with you over a toy.",
+      "She had a big fight with her brother."
+    ]
+  },
+  {
+    "word": "fishing",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We went fishing at the lake yesterday.",
+      "Fishing is a very relaxing hobby.",
+      "He enjoys fishing with his grandfather."
+    ]
+  },
+  {
+    "word": "flower",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The red rose is a beautiful flower.",
+      "I picked a yellow flower for my mom.",
+      "We planted flower seeds in the spring."
+    ]
+  },
+  {
+    "word": "flying",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The kite was flying high in the air.",
+      "I dreamed of flying like a bird.",
+      "We saw a jet flying overhead."
+    ]
+  },
+  {
+    "word": "follow",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Follow me to the kitchen.",
+      "Please follow the directions exactly.",
+      "She tried to follow the complex instructions."
+    ]
+  },
+  {
+    "word": "forest",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We hiked deep into the dark forest.",
+      "The forest was full of tall trees.",
+      "She likes the quiet of the forest."
+    ]
+  },
+  {
+    "word": "forgot",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I forgot my lunch money today.",
+      "She forgot his name immediately.",
+      "He forgot to set his alarm clock."
+    ]
+  },
+  {
+    "word": "form",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Fill out the application form.",
+      "Water can form ice when it freezes.",
+      "The clouds began to form a dark shape."
+    ]
+  },
+  {
+    "word": "found",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I finally found my lost keys.",
+      "She found a dollar on the street.",
+      "We found the answer in the back of the book."
+    ]
+  },
+  {
+    "word": "fourth",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I came in fourth place in the race.",
+      "July is the fourth month in the old calendar.",
+      "She got a fourth slice of pizza."
+    ]
+  },
+  {
+    "word": "free",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I am free to talk now.",
+      "The museum entry is free today.",
+      "The bird was set free from its cage."
+    ]
+  },
+  {
+    "word": "Friday",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We have pizza every Friday.",
+      "Friday is the last day of the work week.",
+      "I look forward to Friday evenings."
+    ]
+  },
+  {
+    "word": "friend",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "My best friend moved away.",
+      "She introduced me to her new friend.",
+      "A dog is a man's best friend."
+    ]
+  },
+  {
+    "word": "front",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I sat in the front of the bus.",
+      "The house has a large front yard.",
+      "He stood in front of the window."
+    ]
+  },
+  {
+    "word": "getting",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "She is getting better at playing the piano.",
+      "Are you getting hungry yet?",
+      "Getting to the airport takes an hour."
+    ]
+  },
+  {
+    "word": "given",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I was given a nice gift.",
+      "The students were given a long assignment.",
+      "Given the circumstances, we should wait."
+    ]
+  },
+  {
+    "word": "grandmother",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "My grandmother taught me how to knit.",
+      "We visit our grandmother every Sunday.",
+      "She loves her grandmother's homemade cookies."
+    ]
+  },
+  {
+    "word": "great",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "That was a great idea!",
+      "She achieved great success in her career.",
+      "I feel great today."
+    ]
+  },
+  {
+    "word": "grew",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The puppy grew very quickly.",
+      "I grew flowers in the garden this year.",
+      "She grew up in a small town."
+    ]
+  },
+  {
+    "word": "ground",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The ball landed on the soft ground.",
+      "Dig a hole in the ground for the plant.",
+      "We waited on the ground floor."
+    ]
+  },
+  {
+    "word": "guess",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Can you guess how old I am?",
+      "I'll guess the answer is five.",
+      "Take a guess if you don't know."
+    ]
+  },
+  {
+    "word": "hair",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She brushed her long, black hair.",
+      "The dog's hair was shedding everywhere.",
+      "He got a short haircut."
+    ]
+  },
+  {
+    "word": "half",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I ate half of the sandwich.",
+      "The meeting will last for a half hour.",
+      "Cut the apple exactly in half."
+    ]
+  },
+  {
+    "word": "having",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "We are having fun at the park.",
+      "Having friends is important.",
+      "She is having trouble with her homework."
+    ]
+  },
+  {
+    "word": "head",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I bumped my head on the low ceiling.",
+      "She is the head of the committee.",
+      "Turn your head and cough."
+    ]
+  },
+  {
+    "word": "heard",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I heard a strange noise outside.",
+      "Have you heard the news yet?",
+      "She heard the bell ring."
+    ]
+  },
+  {
+    "word": "he’s",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "He's going to the store right now.",
+      "I think he's the one who won.",
+      "He's been waiting for an hour."
+    ]
+  },
+  {
+    "word": "heat",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sun gives off great heat.",
+      "The stove will heat the pan quickly.",
+      "We need to turn up the heat in the house."
+    ]
+  },
+  {
+    "word": "hello",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Say hello to your new neighbors.",
+      "I answered the phone with a quick hello.",
+      "She greeted everyone with a friendly hello."
+    ]
+  },
+  {
+    "word": "high",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The bird flew very high in the sky.",
+      "She got a high score on the test.",
+      "The fence is too high to jump over."
+    ]
+  },
+  {
+    "word": "himself",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He taught himself how to juggle.",
+      "The dog shook himself dry.",
+      "He cooked dinner all by himself."
+    ]
+  },
+  {
+    "word": "hour",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The movie is an hour long.",
+      "I have to wait for one hour.",
+      "We left an hour ago."
+    ]
+  },
+  {
+    "word": "hundred",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I counted up to one hundred.",
+      "There are a hundred pennies in a dollar.",
+      "The building is a hundred years old."
+    ]
+  },
+  {
+    "word": "hurry",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We need to hurry or we will be late.",
+      "Don't hurry when crossing the street.",
+      "She was in a hurry to catch the train."
+    ]
+  },
+  {
+    "word": "hurt",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Did you hurt your hand?",
+      "I hurt my knee playing soccer.",
+      "His words really hurt my feelings."
+    ]
+  },
+  {
+    "word": "I’d",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I'd like to go to the park now.",
+      "I'd forgotten how good this movie is.",
+      "If I were rich, I'd travel the world."
+    ]
+  },
+  {
+    "word": "I’ll",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I'll be there soon.",
+      "I'll help you with your homework.",
+      "I'll let you know when I'm ready."
+    ]
+  },
+  {
+    "word": "I’m",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I'm feeling happy today.",
+      "I'm going to the store now.",
+      "I'm not sure what to do next."
+    ]
+  },
+  {
+    "word": "inches",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The ruler is twelve inches long.",
+      "The plant grew two inches last month.",
+      "We need six inches of ribbon."
+    ]
+  },
+  {
+    "word": "isn’t",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She isn't coming to the party.",
+      "Isn't that your new coat?",
+      "It isn't cold outside today."
+    ]
+  },
+  {
+    "word": "it’s",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "It's going to be a sunny day.",
+      "I think it's time to leave.",
+      "It's a shame that she couldn't come."
+    ]
+  },
+  {
+    "word": "I’ve",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I've finished all my chores.",
+      "I've never seen that movie before.",
+      "I've been waiting here for a long time."
+    ]
+  },
+  {
+    "word": "kept",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He kept his promise to visit.",
+      "She kept the letter hidden in a box.",
+      "The dog kept barking all night."
+    ]
+  },
+  {
+    "word": "kids",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The kids are playing loudly outside.",
+      "We took the kids to the amusement park.",
+      "She loves working with small kids."
+    ]
+  },
+  {
+    "word": "kind",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is a very kind person.",
+      "What kind of music do you like?",
+      "I sorted the items by kind."
+    ]
+  },
+  {
+    "word": "kitten",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The tiny kitten chased the string.",
+      "We adopted a small black kitten.",
+      "The kitten drank milk from a bowl."
+    ]
+  },
+  {
+    "word": "knew",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I knew the answer right away.",
+      "She knew him from high school.",
+      "He knew exactly where to find the key."
+    ]
+  },
+  {
+    "word": "knife",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Use a sharp knife to cut the bread.",
+      "Be careful not to drop the knife.",
+      "He used a butter knife to spread jam."
+    ]
+  },
+  {
+    "word": "lady",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The old lady walked with a cane.",
+      "She is a kind and gracious lady.",
+      "The lady in the red dress waved."
+    ]
+  },
+  {
+    "word": "large",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We need a large table for all the guests.",
+      "The dog is very large and fluffy.",
+      "She lives in a large house near the lake."
+    ]
+  },
+  {
+    "word": "largest",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The elephant is the largest land animal.",
+      "She won the prize for the largest pumpkin.",
+      "This is the largest store in the city."
+    ]
+  },
+  {
+    "word": "later",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I will call you later this afternoon.",
+      "The show starts later than expected.",
+      "We can talk about this later."
+    ]
+  },
+  {
+    "word": "learn",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I want to learn how to play guitar.",
+      "You can learn a lot from your mistakes.",
+      "She is excited to learn new things at school."
+    ]
+  },
+  {
+    "word": "leave",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We need to leave the house at eight.",
+      "I will leave the keys under the mat.",
+      "The last green leaf will soon leave the tree."
+    ]
+  },
+  {
+    "word": "let’s",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Let's go to the movies tonight.",
+      "Let's try to finish this chapter now.",
+      "Let's not forget to bring the snacks."
+    ]
+  },
+  {
+    "word": "letter",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I wrote a letter to my friend.",
+      "The first letter of the alphabet is 'A'.",
+      "She received a rejection letter in the mail."
+    ]
+  },
+  {
+    "word": "life",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I love my life.",
+      "She saved the dog's life.",
+      "He lived a long, happy life."
+    ]
+  },
+  {
+    "word": "list",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Make a list of things you need.",
+      "The student read the spelling list.",
+      "I added his name to the guest list."
+    ]
+  },
+  {
+    "word": "living",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We sat together in the living room.",
+      "She makes a living as an artist.",
+      "Finding a way of living is a goal for many."
+    ]
+  },
+  {
+    "word": "lovely",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She wore a lovely blue dress.",
+      "That was a lovely evening with friends.",
+      "The flowers gave off a lovely scent."
+    ]
+  },
+  {
+    "word": "loving",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "She has a kind and loving heart.",
+      "The dog is very loving with the children.",
+      "He wrote a loving note to his wife."
+    ]
+  },
+  {
+    "word": "lunch",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What are you having for lunch today?",
+      "We ate lunch at the park.",
+      "I packed a healthy lunch for school."
+    ]
+  },
+  {
+    "word": "mail",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I checked the mail after work.",
+      "Did you mail the letter yet?",
+      "The company sends out mail every day."
+    ]
+  },
+  {
+    "word": "making",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is making a cake right now.",
+      "Making mistakes is how we learn.",
+      "They are making a lot of noise."
+    ]
+  },
+  {
+    "word": "maybe",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Maybe we should wait a little longer.",
+      "Maybe I will go to the party, maybe not.",
+      "She said maybe she can help us."
+    ]
+  },
+  {
+    "word": "mean",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What does the word 'mean'?",
+      "Don't be mean to your brother.",
+      "I didn't mean to hurt your feelings."
+    ]
+  },
+  {
+    "word": "merry",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We wished them a merry Christmas.",
+      "The children had a merry time at the fair.",
+      "She was feeling happy and merry."
+    ]
+  },
+  {
+    "word": "might",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "It might rain later today.",
+      "I might be able to help you move.",
+      "She exerted all her might to push the rock."
+    ]
+  },
+  {
+    "word": "mind",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please keep that in mind.",
+      "I don't mind waiting for a few minutes.",
+      "She has a brilliant mind for science."
+    ]
+  },
+  {
+    "word": "money",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I need to save my money.",
+      "How much money do you need?",
+      "She earned money by babysitting."
+    ]
+  },
+  {
+    "word": "month",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "There are twelve months in a year.",
+      "I have a doctor's appointment next month.",
+      "The project will take one month to complete."
+    ]
+  },
+  {
+    "word": "morning",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I wake up early every morning.",
+      "Good morning! Did you sleep well?",
+      "We will leave first thing tomorrow morning."
+    ]
+  },
+  {
+    "word": "mouse",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "A tiny mouse ran across the floor.",
+      "She uses a wireless mouse for her computer.",
+      "The cat hunted the small mouse."
+    ]
+  },
+  {
+    "word": "mouth",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Cover your mouth when you cough.",
+      "The river flows into the mouth of the bay.",
+      "She spoke with a full mouth."
+    ]
+  },
+  {
+    "word": "Mr.",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Mr. Smith is our new neighbor.",
+      "Please call me Mr. Jones.",
+      "I met Mr. Harrison at the conference."
+    ]
+  },
+  {
+    "word": "Mrs.",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Mrs. Davis taught my third grade class.",
+      "I gave the package to Mrs. Miller.",
+      "Mrs. Brown is hosting the party."
+    ]
+  },
+  {
+    "word": "Ms.",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Ms. Chang is leading the presentation.",
+      "I sent an email to Ms. Rodriguez.",
+      "Please address the letter to Ms. Lee."
+    ]
+  },
+  {
+    "word": "music",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I love listening to loud music.",
+      "She is studying music theory in college.",
+      "The concert featured classical music."
+    ]
+  },
+  {
+    "word": "near",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The store is near the post office.",
+      "Come near so I can whisper.",
+      "The finish line is near."
+    ]
+  },
+  {
+    "word": "nearly",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I nearly forgot my keys.",
+      "The bottle is nearly empty.",
+      "She was nearly late for the appointment."
+    ]
+  },
+  {
+    "word": "never",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I have never been to Europe.",
+      "Never give up on your dreams.",
+      "She will never forget that day."
+    ]
+  },
+  {
+    "word": "news",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I watched the news on TV this morning.",
+      "Do you have any exciting news?",
+      "The big announcement made headline news."
+    ]
+  },
+  {
+    "word": "noise",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please don't make so much noise.",
+      "I heard a strange noise outside.",
+      "The sudden noise startled the cat."
+    ]
+  },
+  {
+    "word": "nothing",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "There is nothing in the box.",
+      "I have nothing to wear to the party.",
+      "Nothing can stop us now."
+    ]
+  },
+  {
+    "word": "number",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What is your phone number?",
+      "I wrote the number one on the board.",
+      "Choose a number between one and ten."
+    ]
+  },
+  {
+    "word": "o’clock",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The meeting starts at three o'clock.",
+      "I have to leave by seven o'clock.",
+      "It is exactly twelve o'clock now."
+    ]
+  },
+  {
+    "word": "often",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I often visit my aunt on weekends.",
+      "How often do you go swimming?",
+      "She often forgets her keys."
+    ]
+  },
+  {
+    "word": "oil",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We need to change the car's oil.",
+      "The paint was mixed with linseed oil.",
+      "Oil is a major global commodity."
+    ]
+  },
+  {
+    "word": "once",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I have only been there once before.",
+      "Once upon a time, there was a princess.",
+      "Read the directions once more."
+    ]
+  },
+  {
+    "word": "orange",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sunset was a bright orange color.",
+      "I peeled an orange for a snack.",
+      "The traffic cones are bright orange."
+    ]
+  },
+  {
+    "word": "order",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The books are in alphabetical order.",
+      "I placed an order for a new computer.",
+      "The teacher demanded order in the classroom."
+    ]
+  },
+  {
+    "word": "own",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I want to own a house someday.",
+      "She made the cake all on her own.",
+      "The puppy chased its own tail."
+    ]
+  },
+  {
+    "word": "pair",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I need a new pair of shoes.",
+      "She bought a pair of matching earrings.",
+      "The two birds were a breeding pair."
+    ]
+  },
+  {
+    "word": "paint",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I used blue paint for the walls.",
+      "Can you paint a picture of a flower?",
+      "The exterior of the house needs new paint."
+    ]
+  },
+  {
+    "word": "paper",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I wrote a letter on a clean sheet of paper.",
+      "She recycled the old newspapers and paper.",
+      "The gift was wrapped in shiny paper."
+    ]
+  },
+  {
+    "word": "party",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "We had a fun birthday party.",
+      "Are you going to the holiday party?",
+      "The political party held a rally."
+    ]
+  },
+  {
+    "word": "pass",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I hope to pass the exam easily.",
+      "Please pass the salt to me.",
+      "The car will pass us soon."
+    ]
+  },
+  {
+    "word": "past",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We learned about history in the past.",
+      "The car drove past the school.",
+      "The time is five minutes past ten."
+    ]
+  },
+  {
+    "word": "penny",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I found a shiny penny on the sidewalk.",
+      "A penny is worth one cent.",
+      "He saved every penny he earned."
+    ]
+  },
+  {
+    "word": "people",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Many people came to the festival.",
+      "There were a lot of people in the park.",
+      "She is a good person who cares about people."
+    ]
+  },
+  {
+    "word": "person",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is a kind person.",
+      "I only know one person here.",
+      "The missing person was found safely."
+    ]
+  },
+  {
+    "word": "picture",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She drew a beautiful picture of a horse.",
+      "We took a family picture.",
+      "I framed the favorite picture on the wall."
+    ]
+  },
+  {
+    "word": "place",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "This is a lovely place to live.",
+      "Put the book back in its place.",
+      "He took first place in the contest."
+    ]
+  },
+  {
+    "word": "plan",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "What is your plan for the weekend?",
+      "We need to plan the birthday party.",
+      "I didn't plan for this unexpected expense."
+    ]
+  },
+  {
+    "word": "plane",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The plane took off from the airport.",
+      "He used a wooden plane to smooth the board.",
+      "We are taking a plane to visit family."
+    ]
+  },
+  {
+    "word": "please",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Can I have some water, please?",
+      "Please sit down and wait patiently.",
+      "I tried to please my difficult boss."
+    ]
+  },
+  {
+    "word": "pocket",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I keep my keys in my jacket pocket.",
+      "He reached into his pocket for a coin.",
+      "The jeans have a small back pocket."
+    ]
+  },
+  {
+    "word": "point",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Don't point at people.",
+      "She earned ten points on the quiz.",
+      "What is the main point of your argument?"
+    ]
+  },
+  {
+    "word": "poor",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The poor dog looked very cold.",
+      "He is a poor player, but he tries hard.",
+      "They lived in a poor, rural area."
+    ]
+  },
+  {
+    "word": "race",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We ran a short race at school.",
+      "The two cars were neck and neck in the race.",
+      "She is training for a marathon race."
+    ]
+  },
+  {
+    "word": "reach",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Can you reach the top shelf?",
+      "I couldn't reach her by phone.",
+      "We hope to reach our goal soon."
+    ]
+  },
+  {
+    "word": "reading",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I enjoy reading a good mystery novel.",
+      "Reading comprehension is an important skill.",
+      "The student was reading quietly at her desk."
+    ]
+  },
+  {
+    "word": "ready",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Are you ready to go now?",
+      "Dinner is ready to be served.",
+      "She was ready for the challenge."
+    ]
+  },
+  {
+    "word": "real",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Is that diamond real or fake?",
+      "This feels like a real problem.",
+      "She showed real talent at the piano."
+    ]
+  },
+  {
+    "word": "rich",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He became rich from his investments.",
+      "The soil is rich with nutrients.",
+      "She wore a dress made of rich velvet."
+    ]
+  },
+  {
+    "word": "right",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Turn right at the traffic light.",
+      "You are absolutely right about that.",
+      "I have the right to speak freely."
+    ]
+  },
+  {
+    "word": "river",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We went canoeing down the river.",
+      "The city is located next to a large river.",
+      "Fish swim up the river to spawn."
+    ]
+  },
+  {
+    "word": "rocket",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The rocket launched into space.",
+      "I built a model rocket for the science fair.",
+      "They designed a new type of rocket engine."
+    ]
+  },
+  {
+    "word": "rode",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She rode her bike to school.",
+      "We rode horses on the ranch.",
+      "The passengers rode the train all night."
+    ]
+  },
+  {
+    "word": "round",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The ball is perfectly round.",
+      "We went on a round trip across the country.",
+      "Let's go around the park one more time."
+    ]
+  },
+  {
+    "word": "rule",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The first rule is to be kind.",
+      "The king began to rule the country.",
+      "Always follow the rules of the game."
+    ]
+  },
+  {
+    "word": "running",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I saw him running across the park.",
+      "She is running late for her appointment.",
+      "The tap water is running very slowly."
+    ]
+  },
+  {
+    "word": "salt",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Add a pinch of salt to the soup.",
+      "Salt makes the food taste better.",
+      "We spread rock salt on the icy sidewalk."
+    ]
+  },
+  {
+    "word": "says",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sign says 'Stop'.",
+      "She always says thank you.",
+      "He says he will be here soon."
+    ]
+  },
+  {
+    "word": "sending",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I am sending an email to the team.",
+      "She is sending a postcard from her trip.",
+      "The company is sending out packages today."
+    ]
+  },
+  {
+    "word": "sent",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I sent the package yesterday.",
+      "She sent a text message to her mother.",
+      "The teacher sent the note home with the student."
+    ]
+  },
+  {
+    "word": "seventh",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He is the seventh person in line.",
+      "July is the seventh month of the year.",
+      "She celebrated her seventh birthday."
+    ]
+  },
+  {
+    "word": "sew",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I need to sew a button back on my shirt.",
+      "She loves to sew her own clothes.",
+      "I will sew up the small tear in the blanket."
+    ]
+  },
+  {
+    "word": "shall",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Shall we go for a walk?",
+      "I shall meet you at the corner.",
+      "The contract states what the company shall do."
+    ]
+  },
+  {
+    "word": "short",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The movie was very short.",
+      "She has short, curly hair.",
+      "We took a short break for lunch."
+    ]
+  },
+  {
+    "word": "shot",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He took a great shot of the sunset.",
+      "The hunter fired a shot into the air.",
+      "I got a flu shot last fall."
+    ]
+  },
+  {
+    "word": "should",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "You should study for the test.",
+      "I should have called her earlier.",
+      "What should we do now?"
+    ]
+  },
+  {
+    "word": "sight",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The mountain view was a beautiful sight.",
+      "She has excellent sight.",
+      "Keep the dog in your sight at all times."
+    ]
+  },
+  {
+    "word": "sister",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "My older sister taught me to read.",
+      "She introduced me to her twin sister.",
+      "I miss my sister when she is away."
+    ]
+  },
+  {
+    "word": "sitting",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is sitting on the floor.",
+      "We spent the afternoon sitting in the sun.",
+      "The dog was sitting patiently by the door."
+    ]
+  },
+  {
+    "word": "sixth",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I am in the sixth grade.",
+      "June is the sixth month of the year.",
+      "He finished the race in sixth place."
+    ]
+  },
+  {
+    "word": "sled",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We rode the sled down the snowy hill.",
+      "The dog pulled the sled easily.",
+      "I painted my old wooden sled red."
+    ]
+  },
+  {
+    "word": "smoke",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I saw black smoke coming from the chimney.",
+      "The campfire produced a lot of smoke.",
+      "The law prohibits people from smoking."
+    ]
+  },
+  {
+    "word": "soap",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Wash your hands with soap and water.",
+      "I bought a bar of lavender soap.",
+      "She ran out of laundry soap."
+    ]
+  },
+  {
+    "word": "someone",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Someone left the door open.",
+      "I need someone to help me move this box.",
+      "She is waiting for someone to call her."
+    ]
+  },
+  {
+    "word": "something",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I found something interesting in the park.",
+      "Is something wrong with the computer?",
+      "She has something important to tell you."
+    ]
+  },
+  {
+    "word": "sometime",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Let's go to the movies sometime next week.",
+      "Sometime soon we should plan a trip.",
+      "I'll visit you sometime in the fall."
+    ]
+  },
+  {
+    "word": "song",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She sang a beautiful song.",
+      "What is the name of that song?",
+      "We wrote a new song for the band."
+    ]
+  },
+  {
+    "word": "sorry",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I am sorry I was late.",
+      "She felt sorry for the sad dog.",
+      "Say sorry when you make a mistake."
+    ]
+  },
+  {
+    "word": "sound",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I heard a loud crashing sound.",
+      "The plan sounds good to me.",
+      "He fell into a deep sleep and didn't make a sound."
+    ]
+  },
+  {
+    "word": "south",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We traveled south for the winter.",
+      "Florida is located in the south.",
+      "The wind is blowing from the south."
+    ]
+  },
+  {
+    "word": "space",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "There is a lot of space in this room.",
+      "Astronauts travel into outer space.",
+      "Please leave a space between the words."
+    ]
+  },
+  {
+    "word": "spelling",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I won the spelling bee contest.",
+      "Good spelling is important for writing.",
+      "She is having trouble with the spelling of that word."
+    ]
+  },
+  {
+    "word": "spent",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I spent all my money on candy.",
+      "We spent the day at the beach.",
+      "She spent too much time on that one problem."
+    ]
+  },
+  {
+    "word": "sport",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Soccer is my favorite sport.",
+      "He plays every major team sport.",
+      "She is a great sport when she loses."
+    ]
+  },
+  {
+    "word": "spring",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Flowers bloom beautifully in the spring.",
+      "The mattress has a broken spring.",
+      "The cat made a sudden spring toward the mouse."
+    ]
+  },
+  {
+    "word": "stairs",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Be careful when walking down the stairs.",
+      "The stairs lead to the second floor.",
+      "He ran up the stairs quickly."
+    ]
+  },
+  {
+    "word": "stand",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please stand up when the bell rings.",
+      "The shelf won't stand up straight.",
+      "I cannot stand this loud music."
+    ]
+  },
+  {
+    "word": "state",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "California is a large state.",
+      "Please state your name clearly.",
+      "He was in a confused state of mind."
+    ]
+  },
+  {
+    "word": "step",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Take one step forward.",
+      "The first step is always the hardest.",
+      "The dog followed every step I took."
+    ]
+  },
+  {
+    "word": "stick",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The dog played fetch with a large stick.",
+      "Be careful not to stick your hand in the mud.",
+      "Use glue to make the paper stick."
+    ]
+  },
+  {
+    "word": "stood",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She stood up to give her presentation.",
+      "The monument stood tall for centuries.",
+      "I stood outside in the cold wind."
+    ]
+  },
+  {
+    "word": "stopped",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The bus stopped at the corner.",
+      "It stopped raining this morning.",
+      "I stopped eating junk food last month."
+    ]
+  },
+  {
+    "word": "stove",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She cooked dinner on the stove.",
+      "The metal surface of the stove was hot.",
+      "We lit the wood stove to heat the room."
+    ]
+  },
+  {
+    "word": "street",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We live on a busy street.",
+      "Cross the street carefully.",
+      "The bus drives down this main street."
+    ]
+  },
+  {
+    "word": "strong",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He is a very strong weightlifter.",
+      "The rope must be strong enough to hold the weight.",
+      "She has a strong voice and sings well."
+    ]
+  },
+  {
+    "word": "study",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I need to study for my history exam.",
+      "She enjoys reading in her home study.",
+      "He will study the behavior of the animals."
+    ]
+  },
+  {
+    "word": "such",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "It was such a beautiful day.",
+      "I have never seen such a large house.",
+      "He is such a good friend to everyone."
+    ]
+  },
+  {
+    "word": "sugar",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I added sugar to my coffee.",
+      "The recipe requires one cup of sugar.",
+      "Sugar is naturally found in fruit."
+    ]
+  },
+  {
+    "word": "summer",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "We go to the beach every summer.",
+      "I love the warm weather in the summer.",
+      "Summer starts in June."
+    ]
+  },
+  {
+    "word": "Sunday",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I usually rest on Sunday.",
+      "Sunday is the first day of the week.",
+      "We have family dinner every Sunday."
+    ]
+  },
+  {
+    "word": "supper",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We had a light supper after the sun set.",
+      "Supper will be ready in ten minutes.",
+      "They talk about their day during supper."
+    ]
+  },
+  {
+    "word": "table",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please set the dinner table.",
+      "I put my books on the wooden table.",
+      "The car's performance statistics are in the table."
+    ]
+  },
+  {
+    "word": "taken",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The picture was taken last year.",
+      "He has taken the lead in the race.",
+      "The seats were all taken when we arrived."
+    ]
+  },
+  {
+    "word": "taking",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is taking the dog for a walk.",
+      "I am taking a class this semester.",
+      "Taking your time is important for accuracy."
+    ]
+  },
+  {
+    "word": "talking",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "They were talking about the new movie.",
+      "Stop talking and start listening.",
+      "I heard you talking on the phone."
+    ]
+  },
+  {
+    "word": "teacher",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "My teacher is very kind.",
+      "She wants to become a math teacher.",
+      "The teacher helped me with the difficult problem."
+    ]
+  },
+  {
+    "word": "team",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Our basketball team won the championship.",
+      "Working as a team is crucial.",
+      "He joined the soccer team this season."
+    ]
+  },
+  {
+    "word": "teeth",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Brush your teeth twice a day.",
+      "The dog showed its sharp teeth.",
+      "She had to go to the dentist to clean her teeth."
+    ]
+  },
+  {
+    "word": "tenth",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "October is the tenth month of the year.",
+      "He finished the race in tenth place.",
+      "I have read up to the tenth chapter."
+    ]
+  },
+  {
+    "word": "that’s",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "That's a fantastic idea.",
+      "I think that's the house we are looking for.",
+      "That's what she said."
+    ]
+  },
+  {
+    "word": "their",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "They brought their dog to the park.",
+      "Their house is near the school.",
+      "The students read their books silently."
+    ]
+  },
+  {
+    "word": "these",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "These shoes are too small for me.",
+      "I need to read these documents carefully.",
+      "Take these flowers to your mother."
+    ]
+  },
+  {
+    "word": "thinking",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is thinking about what to do next.",
+      "I was thinking of buying a new car.",
+      "His deep thinking helped solve the problem."
+    ]
+  },
+  {
+    "word": "third",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I came in third place in the race.",
+      "The third floor has the offices.",
+      "She won the third medal of the day."
+    ]
+  },
+  {
+    "word": "those",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I like those red apples.",
+      "Are those your keys on the table?",
+      "Take those boxes out to the garage."
+    ]
+  },
+  {
+    "word": "thought",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I thought you were coming later.",
+      "It was a difficult thought to process.",
+      "She thought about her childhood memories."
+    ]
+  },
+  {
+    "word": "throw",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please throw the ball to me.",
+      "Don't throw trash on the ground.",
+      "They plan to throw a large party."
+    ]
+  },
+  {
+    "word": "tonight",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "What are you doing tonight?",
+      "I'm going to watch a movie tonight.",
+      "She will start her project tonight."
+    ]
+  },
+  {
+    "word": "trade",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Let's trade toys for a little while.",
+      "He works in the building trade.",
+      "They agreed to a fair trade."
+    ]
+  },
+  {
+    "word": "trick",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He played a fun trick on his sister.",
+      "The magician performed a card trick.",
+      "The steep road was a difficult trick to drive."
+    ]
+  },
+  {
+    "word": "trip",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We are going on a camping trip.",
+      "Be careful not to trip on the rug.",
+      "The long trip was exhausting but fun."
+    ]
+  },
+  {
+    "word": "trying",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She is trying hard to learn French.",
+      "I am trying to concentrate on my work.",
+      "He kept trying until he succeeded."
+    ]
+  },
+  {
+    "word": "turn",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Take a left turn at the next light.",
+      "It's my turn to play the game.",
+      "Turn off the lights when you leave."
+    ]
+  },
+  {
+    "word": "twelve",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "There are twelve eggs in a dozen.",
+      "The clock struck twelve at noon.",
+      "I will be twelve years old next month."
+    ]
+  },
+  {
+    "word": "twenty",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I counted twenty pencils in the box.",
+      "The number after nineteen is twenty.",
+      "She is twenty minutes late."
+    ]
+  },
+  {
+    "word": "uncle",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "My uncle taught me how to fish.",
+      "We visited my uncle on his farm.",
+      "Uncle Tom gave me a new book."
+    ]
+  },
+  {
+    "word": "under",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The cat is hiding under the bed.",
+      "The temperature dropped under freezing.",
+      "He placed the note under the door."
+    ]
+  },
+  {
+    "word": "upon",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Once upon a time, there was a king.",
+      "The entire team relies upon his performance.",
+      "She placed the crown upon her head."
+    ]
+  },
+  {
+    "word": "wagon",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We pulled the kids in the red wagon.",
+      "The horse pulled the heavy wagon.",
+      "I loaded the toys into the little wagon."
+    ]
+  },
+  {
+    "word": "wait",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We had to wait for the bus for an hour.",
+      "Can you wait here for me?",
+      "Wait for the signal before starting."
+    ]
+  },
+  {
+    "word": "walking",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I enjoy walking in the park.",
+      "She is walking the dog now.",
+      "Walking is good exercise."
+    ]
+  },
+  {
+    "word": "wasn’t",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "She wasn't at school yesterday.",
+      "The weather wasn't very nice.",
+      "It wasn't my fault that the vase broke."
+    ]
+  },
+  {
+    "word": "watch",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I love to watch the sunset.",
+      "She wears a gold watch on her wrist.",
+      "Watch out for oncoming traffic."
+    ]
+  },
+  {
+    "word": "water",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I need a glass of cold water.",
+      "The fish swims in the water.",
+      "We should water the plants every day."
+    ]
+  },
+  {
+    "word": "weather",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The weather is supposed to be sunny tomorrow.",
+      "I don't like cold, rainy weather.",
+      "We checked the weather forecast before leaving."
+    ]
+  },
+  {
+    "word": "we’re",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "We're going to the beach this weekend.",
+      "I think we're ready to leave now.",
+      "We're excited about the new project."
+    ]
+  },
+  {
+    "word": "west",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sun sets in the west.",
+      "We traveled west toward the coast.",
+      "The wind blew from the west."
+    ]
+  },
+  {
+    "word": "wheat",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Bread is made from wheat flour.",
+      "The field of wheat swayed in the wind.",
+      "She prefers whole wheat bread."
+    ]
+  },
+  {
+    "word": "where",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "Where are you going?",
+      "I don't know where he lives.",
+      "This is where we first met."
+    ]
+  },
+  {
+    "word": "which",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Which color do you prefer?",
+      "The book, which I finished yesterday, was excellent.",
+      "She needs to decide which path to take."
+    ]
+  },
+  {
+    "word": "wife",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "He introduced me to his wife.",
+      "The couple, husband and wife, traveled together.",
+      "His wife is a very successful writer."
+    ]
+  },
+  {
+    "word": "wild",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "A lion is a wild animal.",
+      "The garden grew wild and overgrown.",
+      "She had a wild idea for the party theme."
+    ]
+  },
+  {
+    "word": "win",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I hope our team will win the game.",
+      "You have to play to win.",
+      "He strives to win every competition."
+    ]
+  },
+  {
+    "word": "window",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Please close the window.",
+      "I looked out the window at the rain.",
+      "The car's window was cracked."
+    ]
+  },
+  {
+    "word": "winter",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "It snows a lot here in the winter.",
+      "I bought a new coat for the winter.",
+      "Winter starts in December."
+    ]
+  },
+  {
+    "word": "without",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I can't live without coffee.",
+      "She left without saying goodbye.",
+      "He finished the task without any help."
+    ]
+  },
+  {
+    "word": "woman",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The woman in the blue coat waved.",
+      "She is a kind and intelligent woman.",
+      "I asked the older woman for directions."
+    ]
+  },
+  {
+    "word": "won",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Our team won the final game.",
+      "She won first place in the contest.",
+      "He won a lot of money in the lottery."
+    ]
+  },
+  {
+    "word": "won’t",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I won't tell anyone your secret.",
+      "The car won't start this morning.",
+      "He won't be late again."
+    ]
+  },
+  {
+    "word": "wool",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The sweater is made of soft wool.",
+      "Sheep provide us with wool.",
+      "I bought a ball of thick wool yarn."
+    ]
+  },
+  {
+    "word": "word",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "Spell the word 'cat' for me.",
+      "I believe every word she says.",
+      "He kept his word and showed up on time."
+    ]
+  },
+  {
+    "word": "working",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I am working late tonight.",
+      "The machine is not working properly.",
+      "She enjoys working on puzzles."
+    ]
+  },
+  {
+    "word": "world",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "The world is a beautiful place.",
+      "She traveled all over the world.",
+      "We want to make the world a better place."
+    ]
+  },
+  {
+    "word": "would",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I would like a piece of cake.",
+      "Would you like to join us?",
+      "If I had time, I would read more."
+    ]
+  },
+  {
+    "word": "write",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I need to write a letter.",
+      "Can you write your name here?",
+      "She wants to write a book someday."
+    ]
+  },
+  {
+    "word": "wrong",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "The answer is wrong.",
+      "What is wrong with your car?",
+      "I took a wrong turn at the intersection."
+    ]
+  },
+  {
+    "word": "yard",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "We played football in the yard.",
+      "The fence is ten yards long.",
+      "The dog dug a hole in the back yard."
+    ]
+  },
+  {
+    "word": "year",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "This is my favorite time of the year.",
+      "The school year begins in September.",
+      "It has been a difficult year."
+    ]
+  },
+  {
+    "word": "yesterday",
+    "grade": 3,
+    "has_asterisk": false,
+    "phrases": [
+      "I went to the movies yesterday.",
+      "The weather was sunny yesterday.",
+      "She finished her homework yesterday afternoon."
+    ]
+  },
+  {
+    "word": "you’re",
+    "grade": 3,
+    "has_asterisk": true,
+    "phrases": [
+      "I think you're going to like this.",
+      "You're the kindest person I know.",
+      "You're supposed to be here by noon."
+    ]
+  }
+]

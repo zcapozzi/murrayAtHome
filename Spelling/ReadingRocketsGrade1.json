@@ -1,0 +1,942 @@
+[
+  {
+    "word": "a",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I need a pencil.",
+      "She saw a bird fly by.",
+      "He wants a turn next."
+    ]
+  },
+  {
+    "word": "all",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "We ate all the cookies.",
+      "All the students stood up.",
+      "I put all my toys away."
+    ]
+  },
+  {
+    "word": "am",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "I am ready for bed.",
+      "Am I late?",
+      "I am learning to read."
+    ]
+  },
+  {
+    "word": "and",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Dad and Mom are home.",
+      "I like apples and bananas.",
+      "He ran and jumped over the rope."
+    ]
+  },
+  {
+    "word": "at",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "We will meet at the park.",
+      "Look at that big dog!",
+      "I am good at drawing."
+    ]
+  },
+  {
+    "word": "ball",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Throw the ball to me.",
+      "The ball rolled under the table.",
+      "We played a game with a ball."
+    ]
+  },
+  {
+    "word": "be",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I want to be a firefighter.",
+      "Try to be quiet.",
+      "The test will be tomorrow."
+    ]
+  },
+  {
+    "word": "bed",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "It's time for bed.",
+      "My dog sleeps on my bed.",
+      "She made her bed this morning."
+    ]
+  },
+  {
+    "word": "big",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "That is a big truck.",
+      "The elephant is very big.",
+      "I drew a big heart on the paper."
+    ]
+  },
+  {
+    "word": "book",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Read me a book, please.",
+      "I borrowed a book from the library.",
+      "The red book is on the shelf."
+    ]
+  },
+  {
+    "word": "box",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Put the toys in the box.",
+      "The cat jumped into the box.",
+      "I wrapped the present in a box."
+    ]
+  },
+  {
+    "word": "boy",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The boy is playing outside.",
+      "He is a nice boy.",
+      "That boy runs very fast."
+    ]
+  },
+  {
+    "word": "but",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I like blue but not green.",
+      "We wanted to go, but it rained.",
+      "She tried hard but could not win."
+    ]
+  },
+  {
+    "word": "came",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The bus came late today.",
+      "My friend came to my party.",
+      "We came home from the store."
+    ]
+  },
+  {
+    "word": "can",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Can you help me?",
+      "I can count to ten.",
+      "She can ride her bike."
+    ]
+  },
+  {
+    "word": "car",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Dad drove the car.",
+      "Look at the red car.",
+      "We took the car to the beach."
+    ]
+  },
+  {
+    "word": "cat",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The cat is sleeping.",
+      "I have a pet cat.",
+      "The cat chased a mouse."
+    ]
+  },
+  {
+    "word": "come",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Come here, please.",
+      "Will you come to my house?",
+      "I want to come with you."
+    ]
+  },
+  {
+    "word": "cow",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The cow is in the field.",
+      "A cow says 'moo'.",
+      "We saw a big cow on the farm."
+    ]
+  },
+  {
+    "word": "dad",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "My dad reads me stories.",
+      "Dad helped me with my homework.",
+      "I bought a gift for Dad."
+    ]
+  },
+  {
+    "word": "day",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "It was a sunny day.",
+      "What day is today?",
+      "We play outside every day."
+    ]
+  },
+  {
+    "word": "did",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I did my best work.",
+      "Did you finish your lunch?",
+      "She did a great job cleaning."
+    ]
+  },
+  {
+    "word": "do",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "What do you want to do?",
+      "I can do it myself.",
+      "Do your chores now."
+    ]
+  },
+  {
+    "word": "dog",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "My dog loves to run.",
+      "The dog barked at the mailman.",
+      "He walked his dog this morning."
+    ]
+  },
+  {
+    "word": "fat",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The pig looks very fat.",
+      "I saw a fat squirrel eating a nut.",
+      "Butter is a fat."
+    ]
+  },
+  {
+    "word": "for",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "This present is for you.",
+      "We waited for the bus.",
+      "I need a spoon for my soup."
+    ]
+  },
+  {
+    "word": "fun",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "We had fun at the party.",
+      "Playing games is fun.",
+      "It's fun to jump in puddles."
+    ]
+  },
+  {
+    "word": "get",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Go get your coat.",
+      "Did you get an A?",
+      "I get to stay up late tonight."
+    ]
+  },
+  {
+    "word": "go",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Ready, set, go!",
+      "Where do you want to go?",
+      "I need to go shopping."
+    ]
+  },
+  {
+    "word": "good",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "That was a good movie.",
+      "She is a good friend.",
+      "I got a good score on the test."
+    ]
+  },
+  {
+    "word": "got",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "He got a new toy.",
+      "We got lost in the big store.",
+      "I got sick yesterday."
+    ]
+  },
+  {
+    "word": "had",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "We had pizza for dinner.",
+      "She had fun at the beach.",
+      "He had a broken arm last year."
+    ]
+  },
+  {
+    "word": "hat",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Put on your winter hat.",
+      "I bought a new baseball hat.",
+      "The man wore a tall black hat."
+    ]
+  },
+  {
+    "word": "he",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "He is my older brother.",
+      "Does he know the answer?",
+      "He likes to play soccer."
+    ]
+  },
+  {
+    "word": "hen",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The hen laid an egg.",
+      "We have a brown hen on our farm.",
+      "A hen is a female chicken."
+    ]
+  },
+  {
+    "word": "here",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Come sit here with me.",
+      "Is your book here?",
+      "Here is the money you asked for."
+    ]
+  },
+  {
+    "word": "him",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Give the ball to him.",
+      "She went to the movies with him.",
+      "I called him earlier today."
+    ]
+  },
+  {
+    "word": "his",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "That is his bike.",
+      "His name is Ben.",
+      "He put his shoes on the rack."
+    ]
+  },
+  {
+    "word": "home",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "I like being home.",
+      "What time did you get home?",
+      "The cat found its way home."
+    ]
+  },
+  {
+    "word": "hot",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Be careful, the soup is hot.",
+      "It is a very hot day.",
+      "The stove felt hot to the touch."
+    ]
+  },
+  {
+    "word": "I",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "I like ice cream.",
+      "I am learning to read.",
+      "Can I have a cookie?"
+    ]
+  },
+  {
+    "word": "if",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "If it rains, we will stay inside.",
+      "I wonder if she will come.",
+      "Ask him if he needs help."
+    ]
+  },
+  {
+    "word": "in",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The toys are in the box.",
+      "Come in and close the door.",
+      "I live in a large city."
+    ]
+  },
+  {
+    "word": "into",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The frog jumped into the pond.",
+      "I put my clothes into the dresser.",
+      "She looked into the mirror."
+    ]
+  },
+  {
+    "word": "is",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "He is a good student.",
+      "The flower is yellow.",
+      "Is that your coat?"
+    ]
+  },
+  {
+    "word": "it",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "It is cold outside.",
+      "The cat played with it.",
+      "I hope it stops raining."
+    ]
+  },
+  {
+    "word": "its",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The dog chased its tail.",
+      "The tree lost its leaves.",
+      "The company held its annual meeting."
+    ]
+  },
+  {
+    "word": "let",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Let me see the picture.",
+      "Please let the dog out.",
+      "Let's play a game together."
+    ]
+  },
+  {
+    "word": "like",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "I like to draw pictures.",
+      "She looks like her mother.",
+      "Do you like ice cream?"
+    ]
+  },
+  {
+    "word": "look",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Look both ways before crossing.",
+      "I look out the window.",
+      "She gave me a funny look."
+    ]
+  },
+  {
+    "word": "man",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The tall man opened the door.",
+      "He is a kind old man.",
+      "A man was walking his dog."
+    ]
+  },
+  {
+    "word": "may",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "May I use your pencil?",
+      "She may come to the party.",
+      "May is the fifth month of the year."
+    ]
+  },
+  {
+    "word": "me",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Give it to me.",
+      "Call me when you are ready.",
+      "He stood next to me in line."
+    ]
+  },
+  {
+    "word": "mom",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "My mom baked a cake.",
+      "I helped Mom clean the kitchen.",
+      "Mom packed my lunch today."
+    ]
+  },
+  {
+    "word": "my",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "This is my new toy.",
+      "My favorite color is green.",
+      "I forgot my lunch box."
+    ]
+  },
+  {
+    "word": "no",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The answer is no.",
+      "There is no milk left.",
+      "I have no more candy."
+    ]
+  },
+  {
+    "word": "not",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Do not run inside.",
+      "She is not home right now.",
+      "I did not see the movie yet."
+    ]
+  },
+  {
+    "word": "of",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I want a piece of cake.",
+      "She is a friend of mine.",
+      "The color of the sky is blue."
+    ]
+  },
+  {
+    "word": "oh",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Oh, I see what you mean.",
+      "Oh no! I dropped my ice cream.",
+      "Oh, that sounds wonderful."
+    ]
+  },
+  {
+    "word": "old",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "My grandpa is very old.",
+      "I love reading that old book.",
+      "How old are you?"
+    ]
+  },
+  {
+    "word": "on",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The book is on the table.",
+      "Put your shoes on.",
+      "The light is on."
+    ]
+  },
+  {
+    "word": "one",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "I want one more turn.",
+      "She is the one I told you about.",
+      "The number one comes before two."
+    ]
+  },
+  {
+    "word": "out",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Let's go play out in the yard.",
+      "Take the trash out.",
+      "The power went out during the storm."
+    ]
+  },
+  {
+    "word": "pan",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "She cooked eggs in a pan.",
+      "The metal pan was hot.",
+      "I need a clean frying pan."
+    ]
+  },
+  {
+    "word": "pet",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I have a goldfish as a pet.",
+      "A cat is a common pet.",
+      "He loves to pet his dog."
+    ]
+  },
+  {
+    "word": "pig",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The pig rolled in the mud.",
+      "A pig has a curly tail.",
+      "We saw a small pig at the fair."
+    ]
+  },
+  {
+    "word": "play",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Can we play outside?",
+      "I like to play with blocks.",
+      "The children play together every day."
+    ]
+  },
+  {
+    "word": "ran",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "He ran quickly to catch the bus.",
+      "The dog ran across the street.",
+      "We ran a race at school."
+    ]
+  },
+  {
+    "word": "rat",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "A rat is a type of rodent.",
+      "The cat chased a small rat.",
+      "He saw a large rat in the alley."
+    ]
+  },
+  {
+    "word": "red",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "My favorite color is red.",
+      "The apple is bright red.",
+      "Stop when the light is red."
+    ]
+  },
+  {
+    "word": "ride",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Do you want to ride my scooter?",
+      "We went for a fun car ride.",
+      "Can you ride a bicycle?"
+    ]
+  },
+  {
+    "word": "run",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "We will run around the track.",
+      "Don't run in the house!",
+      "I can run faster than my friend."
+    ]
+  },
+  {
+    "word": "sat",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I sat on the soft couch.",
+      "She sat down to eat lunch.",
+      "The bird sat on the branch."
+    ]
+  },
+  {
+    "word": "see",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I can see the moon.",
+      "Did you see that movie?",
+      "We will see them tomorrow."
+    ]
+  },
+  {
+    "word": "she",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "She is my teacher.",
+      "Did she call you back?",
+      "She likes wearing her new dress."
+    ]
+  },
+  {
+    "word": "sit",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Please sit here.",
+      "Sit down and wait for your turn.",
+      "I like to sit by the window."
+    ]
+  },
+  {
+    "word": "six",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I am six years old.",
+      "The number after five is six.",
+      "There are six eggs in the carton."
+    ]
+  },
+  {
+    "word": "so",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I was cold, so I put on a coat.",
+      "He ran so fast.",
+      "I think so, but I'm not sure."
+    ]
+  },
+  {
+    "word": "stop",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The car came to a stop.",
+      "Stop running now!",
+      "I asked her to stop talking."
+    ]
+  },
+  {
+    "word": "sun",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The sun is very bright today.",
+      "We played outside in the sun.",
+      "The sun sets in the west."
+    ]
+  },
+  {
+    "word": "ten",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I can count to ten.",
+      "There are ten fingers on my hands.",
+      "The number before eleven is ten."
+    ]
+  },
+  {
+    "word": "the",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "The dog is brown.",
+      "She bought the biggest apple.",
+      "He closed the door."
+    ]
+  },
+  {
+    "word": "this",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "I want this toy.",
+      "This is a difficult puzzle.",
+      "Do you like this new song?"
+    ]
+  },
+  {
+    "word": "to",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "We are going to the store.",
+      "I need to drink water.",
+      "Give the book to him."
+    ]
+  },
+  {
+    "word": "top",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "He stood on the top of the hill.",
+      "Put the lid on top of the jar.",
+      "I spun the toy top."
+    ]
+  },
+  {
+    "word": "toy",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "That is my favorite toy.",
+      "He shared his toy with his friend.",
+      "The child hugged the stuffed toy."
+    ]
+  },
+  {
+    "word": "two",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "I have two brothers.",
+      "The number after one is two.",
+      "We need two tickets for the movie."
+    ]
+  },
+  {
+    "word": "up",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "Look up at the sky.",
+      "The balloon floated up, up, and away.",
+      "Please stand up when the bell rings."
+    ]
+  },
+  {
+    "word": "us",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "She came with us to the park.",
+      "Dad is taking us to the zoo.",
+      "Can you give us a ride?"
+    ]
+  },
+  {
+    "word": "was",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "It was a dark and stormy night.",
+      "He was sleeping when I called.",
+      "That was the best meal I've ever had."
+    ]
+  },
+  {
+    "word": "we",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "We went to the beach today.",
+      "Do we have any milk left?",
+      "We are a happy family."
+    ]
+  },
+  {
+    "word": "will",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "I will help you later.",
+      "The package will arrive tomorrow.",
+      "Will you come to the party?"
+    ]
+  },
+  {
+    "word": "yes",
+    "grade": 1,
+    "has_asterisk": false,
+    "phrases": [
+      "The answer is yes.",
+      "He said yes to the invitation.",
+      "Yes, I would like some water."
+    ]
+  },
+  {
+    "word": "you",
+    "grade": 1,
+    "has_asterisk": true,
+    "phrases": [
+      "Do you want to play?",
+      "I see you over there.",
+      "You are a very kind person."
+    ]
+  }
+]
