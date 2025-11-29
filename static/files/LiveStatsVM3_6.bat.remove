@@ -1,0 +1,2 @@
+REM 20240302
+python C:\Users\zcapo\Documents\workspace\LacrosseReference\live_win_odds.py  -sequence 6 -execution LiveStatsVM3_6 --game-ID "58670|56607|58218|55709|59157|58627|58142"

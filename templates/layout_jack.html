@@ -1,0 +1,96 @@
+
+<!doctype html>
+<html>
+  <head>
+    
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>
+        {% if misc.title %}
+            {{misc.title}}
+        {% else %}
+            Murray
+        {% endif %}
+    </title>
+
+	
+	
+	<!--link rel="stylesheet" href="static/css/oswald.css?dt=203" />
+	<link rel="stylesheet" href="static/css/LR_aesthetics.css?dt=203" />
+	<link rel="stylesheet" href="static/css/LR_elements.css?dt=203" />
+	<link rel="stylesheet" href="static/css/LR_spacing.css?dt=203" />
+	<link rel="stylesheet" href="static/css/LR_structural.css?dt=203" />
+	<link rel="shortcut icon" href="static/img/favicon.ico"-->
+	
+	<link rel="stylesheet" href="{{ url_for('static', filename = 'css/oswald.css')}}" ></link>
+	<link rel="stylesheet" href="{{ url_for('static', filename = 'css/LR_aesthetics.css')}}" />
+	<link rel="stylesheet" href="{{ url_for('static', filename = 'css/LR_elements.css')}}" />
+	<link rel="stylesheet" href="{{ url_for('static', filename = 'css/LR_spacing.css')}}" />
+	<link rel="stylesheet" href="{{ url_for('static', filename = 'css/LR_structural.css')}}" />
+	<link rel="shortcut icon" href="{{ url_for('static', filename = '/img/favicon.ico')}}">
+
+	<!--script src="static/js/laxref.js?dt=203"></script-->
+	<!--script src="static/js/laxrefpro.js?dt=203"></script-->
+	<!--script src="static/js/jquery.min.js"></script-->		
+	<script src="{{ url_for('static', filename = 'js/laxref.js') }}"></script>
+	<script src="{{ url_for('static', filename = 'js/laxrefpro.js') }}"></script>
+	<script src="{{ url_for('static', filename = 'js/jquery.min.js') }}"></script>
+		
+
+	
+  </head>
+  <body onclick='menu_toggle(true); explore_toggle(true);  submenu_toggle(null, true);'>
+  
+  <div class='viewbox'>
+        <div class='col-12 flex site-header-bar no-padding' style='border-bottom:solid 1px black;'>
+            <img id='pixel' src='' style='display:none;' /><input id='js_error_flag' type=hidden value='0' />
+            <div id="overlay_panel" class='overlay' style=""></div>
+            <div id="fullscreen_overlay_panel" class='fullscreen overlay' style=""></div>
+               
+          
+            <div class='col-7-8 no-padding flex'>
+                <span id='main_logo' class='dtop site-logo' ><a class='menu-link' href='/'>Jack - Will - Lily Spelling</a></span>
+                <span class='mob site-logo'><a class='menu-link' href='/'>Jack - Will - Lily Spelling</a></span>
+            </div>
+            <div class='col-5-4 right dtop no-padding menu-icon' style=''>
+                
+                
+                <img class='menu-icon' style=' ' title='{{user_obj.email_decrypted}}' id='personicon' src='/static/img/person30.png'>
+               <div class='menu-holder'>
+                <div id="menu_modal_dtop" class="pointer dropdown-content">
+                    <a class='font-15' id='home_link_dtop' href="/">Home</a>
+                    <a class='font-15' id='account_link_dtop' href="/account">My Account</a>
+                    <a class='font-15' href="/{{misc.glossary_handler}}">Glossary</a>
+                    <a class='font-15' href="/{{misc.userguide_handler}}">User Guide</a>
+                    <a class='font-15' href="/help{{misc.handler}}">Help</a>
+                    <a class='font-15' id='signout_link_dtop' href="/logout">Sign Out</a>
+                </div>
+                </div>
+            </div>
+            <div class='col-5 right mob menu-icon' style=''>
+                <img class='menu-icon' id='threedot' style='' src='/static/img/threedotmenu.png'>
+                <div class='menu-holder'>
+                    <div id="menu_modal_mob" class="dropdown-content">
+                        <a class='font-15' href="/">Home</a>
+                        <a class='font-15' href="/account">My Account</a>
+                        
+                        
+                        <a class='font-15' href="/{{misc.glossary_handler}}">Glossary</a>
+                        <a class='font-15' href="/{{misc.userguide_handler}}">User Guide</a>
+                        <a class='font-15' href="/help{{misc.handler}}">Help</a>
+                        <a class='font-15' href="/logout">Sign Out</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% block body %}{% endblock %}
+ 
+    
+  </div>
+  <div class='col-12 centered' style='border-top: solid 1px #888;'><span class='font-14'>{{misc.copyright|safe}}</span></div>
+  </body>
+</html>
+

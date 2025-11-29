@@ -1,0 +1,84 @@
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    animation: spin 2s linear infinite;
+	float: none;
+	margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+tr.datalisttr:nth-child(even) {background: #F0F8FF; padding-top:0em;}
+tr.datalisttr:nth-child(odd) {background: #FFF; padding-top:0em;}
+
+table.datalist {border:1px solid #000}
+td,th {border:none}
+
+.container { padding: 10px; }
+
+.hidden { visibility:hidden; }
+.visible { visibility:visible; }
+
+.card { box-shadow: 2px 4px 8px 2px rgba(0,0,0,0.2); display:block; /*height:250px;*/ text-align:left;  margin-bottom:5px; }
+
+.col-1 { width: 8.333%; }
+.col-2 { width: 16.667%; }
+.col-3 { width: 25.00%; }
+.col-4 { width: 33.333%; }
+.col-5 { width: 41.667%; }
+.col-6 { width: 50%; }
+.col-7 { width: 58.333%; }
+.col-8 { width: 66.667%; }
+.col-9 { width: 75%; }
+.col-10 { width: 83.333%; }
+.col-11 { width: 91.667%; }
+.col-12 { width: 100%; }
+
+.bold { font-weight:700; } 
+
+div.block{ width:100%; display:block; }
+div.flex { display:flex; }
+div.inline-flex { display:inline-flex; vertical-align: middle; padding: 10px; }
+
+.positive-value{ color: green; }
+.negative-value{ color: red; }
+
+.page-title { font-size:36px; font-weight:600; padding:10px;}
+.small-card-title { font-size:20px; font-weight:600; padding:15px;}
+
+span.circle-text {
+    display: block;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+
+    -moz-border-radius: 15px; /* or 50% */
+    border-radius: 15px; /* or 50% */
+
+    text-align: center;
+    font-size: 12px;
+    font-weight:500;
+}
+
+span.circle-text.red {
+    background-color:red; 
+    color:white;
+}
+span.circle-text.yellow {
+    background-color:yellow; 
+    color:black;
+}
+span.circle-text.green {
+    background-color:green; 
+    color:white;
+}
+span.circle-text.gray {
+    background-color:#AAA; 
+    color:white;
+}

@@ -1,0 +1,208 @@
+
+{% extends layout %}
+
+
+{% block body %}
+    <title>
+        {% if misc.title %}
+            {{misc.title}}
+        {% else %}
+            LacrosseReference
+        {% endif %}
+    </title>
+	<STYLE>
+		.progress-box {
+			height:3px;
+			margin:2px;
+			width:50px;
+			padding:0;
+			background-color: #CCC;
+		}
+		.progress-box.complete {
+			background-color: #189ad3;
+		}
+	</STYLE>
+	
+	<!--
+    <meta property='twitter:card' content="summary"/>
+    <meta property='twitter:site' content="https://pro.lacrossereference.com" />
+    <meta property='twitter:title' content="Expand your fandom with PRO" />
+    <meta property='twitter:description' content="Advanced stats, all-in-one player pages, beautiful graphics. LR PRO is the best way to really understand what is going on in the sport." />
+    <meta property='twitter:image' content="https://pro.lacrossereference.com/static/img/LRP_Skype_profile.jpg" />
+    
+	{% if misc.show_bracket_challenge_link %}
+		<div class='centered' style='background-color: #EFE; padding:5px 10px;'><span class=''>The May Madness Bracket Challenge is here! Create a group and fill out your brackets <a href='/bracket_home'>here</a>.</span></div>
+	{% endif %}
+    
+    
+    <div class='col-12 centered' id='banner'></div>
+    {% if misc.breadcrumbs and user_obj.auth %}
+        <div class='col-12 breadcrumbs'>
+            {{misc.breadcrumbs|safe}}
+        </div>
+    {% endif %}
+    {% if misc.error %}
+        <div class='col-12 error'><span class='error' >{{misc.error|safe}}</span></div>
+    {% endif %}
+    {% if misc.msg %}
+        <div class='col-12 error'><span class='msg' style='color:blue;' >{{misc.msg|safe}}</span></div>
+    {% endif %}
+    <div class='notification-div card col-12' id='default_notification_div'></div>
+    <div class='col-12'>
+        <div class='col-12 centered dtop' style='padding: 80px 0px 60px 0px;'>
+            <span class='font-36 bold site-blue' style=''>Making you everyone's favorite lacrosse expert.</span>
+        </div>
+        <div class='col-12 centered mob' style='padding: 60px 0px 10px 0px;'>
+            <span class='font-36 bold site-blue' style=''>Making you everyone's</span>
+        </div>
+        <div class='col-12 centered mob' style='padding: 10px 0px 30px 0px;'>
+            <span class='font-36 bold site-blue' style=''>favorite lacrosse expert</span>
+        </div>
+    </div>
+
+    
+
+    <div class='' style='padding:20px;'>
+        <div class=''>
+            <div class=' centered bbottom' style='padding-top:30px; padding-bottom:20px;'>
+            <span class='font-36 bold'>Products</span>
+            </div>
+        </div>
+    </div>
+    <div class='col-12 flex-block'>
+        <div class='col-4-12 flex'>
+            <div class='col-1'></div>
+            
+            <div class='col-10'>
+                <a href='/product-summary-basic{{misc.tracking_tag_str}}' style='text-decoration:none; color:inherit;'>
+                    <div id='fan_product' class='col-12 centered'><img class='' style=' ' src='/static/img/fan_icon.png'></div>
+                    <div class='centered' style=''><span class='font-18 bold'>For Fans</span></div>
+                    <div class='centered text-container'><span class='font-15 contents'>
+                        Follow your team closer than ever.
+                    </span></div>
+                </a>
+            </div>
+            
+            <div class='col-1'></div>
+            
+        </div>
+        <div class='col-4-12 flex'>
+            <div class='col-1'></div>
+            <div class='col-10'>
+            <a href='/product-summary-media' style='text-decoration:none; color:inherit;'>
+                <div id='media_product{{misc.tracking_tag_str}}' class='col-12 centered'><img class='' style=' ' src='/static/img/media_icon.png'></div>
+                <div class='col-12 centered' style=''><span class='font-18 bold'>For Media</span></div>
+                <div class='centered text-container'><span class='font-15 contents'>
+                    Make your game coverage a snap.
+                </span></div>
+            </a>
+            </div>
+            <div class='col-1'></div>
+        </div>
+        
+        
+        <div class='col-4-12 flex'>
+           
+            
+            
+            <div class='col-1'></div>
+            <div class='col-10'>
+            <a href='/product-summary-team{{misc.tracking_tag_str}}' style='text-decoration:none; color:inherit;'>
+                <div id='team_product' class='col-12 centered'><img class='' style=' ' src='/static/img/team_icon.png'></div>
+                <div class='col-12 centered' style=''><span class='font-18 bold'>For Teams</span></div>
+                <div class='centered text-container'><span class='font-15 contents'>
+                    Scout faster, coach smarter.
+                </span></div>
+            </a>
+            </div>
+            <div class='col-1'></div>
+        </div>
+        
+    </div>
+    
+    
+    <div class='centered' style='padding:20px;'>
+        <a class='' href='/product-pricing-basic{{misc.tracking_tag_str}}'><button class='font-18 action-button blue medium'>BUY NOW</button></a>
+    </div>
+
+	<div class='' style='padding:20px;'>
+		<div class=''>
+			<div class='col-12 centered bbottom'><span class='font-36 bold'>Expected Goals Daily</span></div>
+			<div class='col-12 centered' style='padding-top:30px;'><span class='font-18 contents'>The free <a href='/expected-goals?t=fispa02pwosidpn'>newsletter</a> from LacrosseReference</span></div>
+			<div class='col-12' style='padding-top:10px;'><span class='font-15 lh-30 contents'>
+				Hundreds of players, coaches, parents and fans are getting 5-10 minutes of lacrosse in their inbox every morning. Join them now and get coverage and analysis of your team. <a href='/expected-goals?t=fispa02pwosidpn'>Sign up</a> now.
+			</span></div>
+		</div>
+	</div>
+		
+    <div class='' style='padding:20px;'>
+		<div class=''>
+			<div class='col-12 centered bbottom'><span class='font-36 bold'>Why PRO?</span></div>
+		
+			
+				
+			
+			
+		</div>
+	</div>
+	
+    <div class='centered' style='padding:20px;'>
+        <a class='' href='/product-pricing-basic{{misc.tracking_tag_str}}'><button class='font-18 action-button blue medium'>BUY NOW</button></a>
+    </div>-->
+	<div class='col-12 centered on-reset  '  style='padding-top: 120px;'><span id='intro_question' class=''>Who are you?</span></div>
+	
+	<div class='col-12 centered flex-wrap on-reset'>
+		<button onclick='start_choose_person("Jack");' style='margin-left:30px;' class='font-24 action-button medium'>Wacky-Jacky</button>
+		<button onclick='start_choose_person("Will");' style='margin-left:30px;' class='font-24 action-button medium'>Donkey</button>
+		<button onclick='start_choose_person("Lily");' style='margin-left:30px;' class='font-24 action-button medium'>Muffin-Butt</button>
+	
+	</div>
+	<div class='centered'>	<div class='inline-flex' id='progress_div'></div></div>
+	<div class='col-12 centered hidden after-reset' id='instructions_div' style='padding-top: 120px;'><span class=''>Click Next, then type in the word that the computer says.</span></div>
+	<div class='col-12 centered hidden after-reset' style='padding-top: 120px;'><input id='entry_input' class='hidden font-48' type=text style='width:600px;' placeholder='Type the word'></div>
+	
+	<div class='col-12 centered hidden after-reset' id='listen_div'><button onclick='getNext();' class='font-24 action-button medium blue'>NEXT</button></div>
+	<div class='col-12 centered hidden after-reset' id='done_button'><div class=' inline-flex'><button class='font-24 action-button medium blue' onclick='compare();'>DONE</button><button onclick='repeatPhrase();' style='margin-left:30px;' class='font-24 action-button medium'>REPEAT</button></div></div>
+	<div class='col-12 centered font-48 bold site-blue' id='results_div_str'></div>
+	<div class='col-12 centered flex-wrap' id='results_div_img'></div>
+	<div class='col-12 centered hidden after-reset flex' id='results_list_div'></div>
+	
+	<div class='col-12 centered on-reset  ' id='counts_leaderboard_large' style='padding-top: 20px;'></div>
+<script>
+  
+
+</script>
+
+<script src="static/js/laxrefpro_async.js"></script>
+<script>
+	function parse_misc(output){
+		/***
+		In case we eventually need to do something to the misc object that is sent from the server, we'll do it here. But for now, this is just a pass-through
+		***/
+		return output;
+	}
+
+    var on_mobile = null;
+    var console_log = []; var success = null;
+    
+    var misc = JSON.parse({{misc|to_json2}});
+	var words_used = {}
+    let startSpeaking = false;
+	var kid = null;
+	misc.inferred_grade = null;
+
+    console.log(misc);
+	misc.correct_words = []
+	misc.incorrect_words = []
+	
+	
+</script>
+</script><script src="static/js/spelling.js"></script>
+
+<SCRIPT>
+	
+	var loc = 0;
+    
+	display_today_attempts_count('counts_leaderboard_large')
+</SCRIPT>
+{% endblock %}
