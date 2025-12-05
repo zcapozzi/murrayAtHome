@@ -7,7 +7,7 @@ import traceback
 from datetime import datetime, timedelta, date
 
 app = Flask(__name__)
-from flask import Markup
+from markupsafe import Markup
 
 # Load OpenAI API key from config
 piFolder = "/home/pi/zack/"
@@ -16,7 +16,7 @@ if not os.path.isdir(piFolder):
     if not os.path.isdir(piFolder):
         piFolder = "C:\\Users\\zcapozzi002\\Documents\\workspace"
 zc_fldr = os.path.join(piFolder,"ZackInc")
-default_fldr = os.path.join(piFolder,"default")
+default_fldr = os.path.join(piFolder,"murrayAtHome")
 lr_fldr = os.path.join(piFolder,"LacrosseReference")
 
 
@@ -502,7 +502,7 @@ def spelling():
     
     words = []
     for i in range(1, 6):
-        src = os.path.join(default_fldr, 'LilyStoryWriter', 'Spelling', f"ReadingRocketsGrade{i}.json")
+        src = os.path.join(default_fldr, 'Spelling', f"ReadingRocketsGrade{i}.json")
         data = json.loads(open(src, 'r').read().replace("â€™", "'"))
         data = [z for z in data if "'" not in z['word'] and "." not in z['word']]
         print (data[0])
