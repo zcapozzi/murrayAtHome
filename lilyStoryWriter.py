@@ -464,7 +464,7 @@ def spelling_POST():
         cursor.close()
         
         if data.get('correct_words') is not None or data.get('incorrect_words') is not None:
-            msg = f"[SPELLING]\n\n{data['kid']} scored {data['correct']} out of {data['total']}"
+            msg = f"[SPELLING]\n\n{data['kid']} scored {data['total_correct']} out of {data['total']}"
             if data['correct_words'] != []:
                 msg += "\n\nCorrect: %s" % zc.list_to_sentence(data['correct_words'])
             if data['incorrect_words'] != []:
@@ -491,10 +491,17 @@ def spelling():
     cursor = zc.zcursor("LOCAL")
     misc['today_n_attempts_by_speller'] = cursor.hashMap_query_results(query, param, "speller", "attempts_today")
     
+    query = "SELECT speller, count(1) correct_today from Spelling_Word_Attempts where answer=attempt and day_index=%s group by speller;"
+    param = [misc['day_index']]
+    misc['today_n_correct_by_speller'] = cursor.hashMap_query_results(query, param, "speller", "correct_today")
+    
     query = "SELECT speller, answer from Spelling_Word_Attempts where day_index=%s;"
     param = [misc['day_index']]
-    cursor = zc.zcursor("LOCAL")
     misc['today_words_used_by_speller'] = cursor.defaultdict_query_results(query, param, "speller")
+    
+    query = "SELECT speller, answer from Spelling_Word_Attempts;"
+    param = []
+    misc['all_time_words_used_by_speller'] = cursor.defaultdict_query_results(query, param, "speller")
     
     
     cursor.close()
