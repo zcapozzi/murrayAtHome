@@ -55,8 +55,8 @@ function readPhrase(phrase, argSpeed=.60) {
 function start_choose_person(kid){
 	misc.kid = kid;
 	
-	if(kid == "Jack"){ misc.inferred_grade = 1; }
-	if(kid == "Will"){ misc.inferred_grade = 1; }
+	if(kid == "Jack"){ misc.inferred_grade = 2; }
+	if(kid == "Will"){ misc.inferred_grade = 2; }
 	if(kid == "Lily"){ misc.inferred_grade = 1; }
 	
 	console.log("Set kid to " + misc.kid)
@@ -93,6 +93,7 @@ var n_correct = 0;
 
 function repeatPhrase(){
 	
+	document.getElementById('entry_input').focus();
 	word = misc.words[loc];
 	const randomIndex = Math.floor(Math.random() * word.phrases.length);
 	sentence = word.phrases[randomIndex];
@@ -131,13 +132,15 @@ function display_today_attempts_count(id){
 	$("#" + id).empty();
 	html = "<div class='bbottom'><span class='bold font-30 msg' style='color: #333;'>Words Tried Today</span></div>"
 	html += "<div class='flex bbottom very-light bold'>";
-		html += "<div class='col-9 left'><span class='font-18'>Speller</span></div>"
+		html += "<div class='col-6 left'><span class='font-18'>Speller</span></div>"
+		html += "<div class='col-3 right'><span class='font-18'>Correct</span></div>"
 		html += "<div class='col-3 right'><span class='font-18'>Tries</span></div>"
 	html += "</div>"
 	for(k in misc.today_n_attempts_by_speller){
 		
 		html += "<div class='flex'>";
-		html += "<div class='col-9 left'><span class='font-18'>" + k + "</span></div>"
+		html += "<div class='col-6 left'><span class='font-18'>" + k + "</span></div>"
+		html += "<div class='col-3 right'><span class='font-18'>" + misc.today_n_correct_by_speller[k] + "</span></div>"
 		html += "<div class='col-3 right'><span class='font-18'>" + misc.today_n_attempts_by_speller[k] + "</span></div>"
 		html += "</div>"
 	
@@ -178,7 +181,7 @@ function print_correct_and_incorrect(){
 function move_to_next(loc){
 	relevant_grade = misc.grade;
 	if(relevant_grade == null){
-		if(misc.kid == "Will"){
+		if(misc.kid == "Will" || misc.kid == "Jack"){
 			relevant_grade = misc.inferred_grade + (Math.random() < 0.5 ? 1 : 0) + (Math.random() < 0.05 ? 1 : 0);
 			
 		}
@@ -186,19 +189,28 @@ function move_to_next(loc){
 			relevant_grade = misc.inferred_grade;
 		}
 	}
+	var next_word_found = 0;
 	if(!(misc.kid in words_used)){
 		words_used[misc.kid] = [];
 	}
 	words_used_for_kid = words_used[misc.kid]
-	console.log(words_used_for_kid);
+	console.log(misc.kid, "grade: " + relevant_grade);
 	while((words_used_for_kid.indexOf(misc.words[loc].word) > -1 || misc.words[loc].grade != relevant_grade) && loc < misc.words.length){
-		console.log(misc.words[loc])
-		console.log(loc, relevant_grade, misc.words[loc].word, misc.words[loc].grade);
+		//console.log(misc.words[loc])
+		//console.log(loc, relevant_grade, misc.words[loc].word, misc.words[loc].grade);
 		loc += 1;
 		
 	}
 	misc.word = misc.words[loc];
-	console.log("Word is " + misc.word.word);
+	
+	
+	if(words_used_for_kid.indexOf(misc.words[loc].word) > -1){ // Exhausted all the original set of words
+		alert("You've done all the words; go get Dad!!!")
+	}
+	else{
+		next_word_found = 1;
+	}
+	console.log("Word is " + misc.word.word + "\n");
 	words_used_for_kid.push(misc.words[loc].word);
 	return loc;
 }
@@ -214,10 +226,12 @@ function compare(){
 	$("#progress_box" + n_tried).addClass("complete");
 	n_tried += 1;
 	if(!(misc.kid in misc.today_n_attempts_by_speller)){ misc.today_n_attempts_by_speller[misc.kid] = 0; }
+	if(!(misc.kid in misc.today_n_correct_by_speller)){ misc.today_n_correct_by_speller[misc.kid] = 0; }
 	misc.today_n_attempts_by_speller[misc.kid] += 1
 	msg = null;
 	if(entry == word.word.trim().toLowerCase()){
 		
+		misc.today_n_correct_by_speller[misc.kid] += 1
 	
 		$("#results_div_img").append("<img src='https://storage.googleapis.com/images.pro.lacrossereference.com/TeamLogos/team0001_NotreDame_big.jpg' style='width:50px; padding:0px 20px;' />");
 		msg = "Correct"
@@ -246,7 +260,7 @@ function compare(){
 
 	if(n_tried == misc['n_words']){
 	
-		spellingResultData.correct= n_correct;
+		spellingResultData.total_correct= n_correct;
 		spellingResultData.total= n_tried;
 		spellingResultData.correct_words= misc.correct_words;
 		spellingResultData.incorrect_words= misc.incorrect_words;
@@ -266,11 +280,12 @@ function compare(){
 	if(n_tried == misc['n_words']){
 		document.getElementById('entry_input').value="";
 		pct = parseInt(100*n_correct/n_tried) + " percent"
-		msg = `Awesome job, you scored ${n_correct} out of ${n_tried}; that's a score of ${pct}`
+		msg = `You scored ${n_correct} out of ${n_tried}.`
 		$(".on-reset").removeClass("hidden");
 		$(".after-reset").addClass("hidden");
 		$("#listen_div").addClass("hidden");
 		$("#results_list_div").empty()
+		display_today_attempts_count('counts_leaderboard_large')
 		
 		/*
 		const session_end = {
