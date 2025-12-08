@@ -4,7 +4,10 @@ import os, sys, random
 import json
 import traceback
 
+from pprint import pprint
+
 from datetime import datetime, timedelta, date
+from collections import defaultdict
 
 app = Flask(__name__)
 from markupsafe import Markup
@@ -427,7 +430,7 @@ def spelling_POST():
 
     # Check for the action string sent from the client-side
     if data and data.get('action') == "report_session_start":
-        laxref.telegram_alert("[SPELLING]\n\nSession started by %s" % data['kid'])
+        #laxref.telegram_alert("[SPELLING]\n\nSession started by %s" % data['kid'])
         return jsonify({"success": True, "no_icon": 1, "async_ID": data.get('action')}), 200
     elif data and data.get('action') == "report_session_end":
         
@@ -479,12 +482,35 @@ def spelling_POST():
 @app.route('/spelling', methods=['GET', 'POST'])
 def spelling():
     
-    misc = {'word': "and", "phrases": ["and", "as in", "he and she went to the store"], 'n_words': int(request.args.get("count", 10))}
+    misc = {'title': "Spelling Practice", 'word': "and", "phrases": ["and", "as in", "he and she went to the store"], 'n_words': int(request.args.get("count", 10))}
+    
     misc['grade'] = request.args.get('grade')
+    misc['lesson'] = request.args.get('lesson')
     misc['noCommit'] = 1 if request.args.get('noCommit') in [1, '1'] else 0
     print("Grade: %s" % misc['grade'])
-    
+    if misc['lesson'] not in [None, '']:
+        misc['n_words'] = 20
     misc['day_index'] = (date.today() - date(2025, 11, 27)).days
+    
+    # Determine how likely it should be that a given word is offered up for a given speller; the idea is to make sure that there is diversity across grades and we can tune this to try and keep accuracy rates in line
+    misc['word_frequency_by_word_by_speller'] = {}
+    
+    # Note: None means that we should not show this word unless absolutely every other word has already been used
+    misc['word_frequency_by_word_by_speller']['Jack'] = {0: None, 1: 0.05, 2: 1.0, 3: 0.5, 4: .05, 5: None}
+    misc['word_frequency_by_word_by_speller']['Will'] = {0: None, 1: 0.01, 2: 1.0, 3: 0.6, 4: .10, 5: None}
+    misc['word_frequency_by_word_by_speller']['Lily'] = {0: None, 1: 1.0, 2: None, 3: None, 4: .00, 5: None}
+    
+    misc['focus_words_use_first'] = {}
+    misc['focus_words_use_first_detail'] = {}
+    misc['focus_words_use_first']['Jack'] = ['come', "seek", "hear", 'ready', 'when', "should", "pair", "play", "could", "right", 'why', 'always', 'only', 'because', 'says', 'what', "fair", "clay", "plate", "pain", "rain", "stay", "chain", "trail", "gray", "paint", "main", "away", "stray"]
+    
+    misc['focus_words_use_first']['Will'] = ['trail', 'stain', 'paint', 'way', 'clay', 'green', 'need', 'cheap', 'turkey', 'kidney', 'today', 'very', 'above', 'among', 'busy', 'city', 'fly', 'baby', 'candy', 'spry']
+    
+    misc['focus_words_use_first']['Lily'] = ["was", "the", "on", "is"]
+    for k in misc['focus_words_use_first']:
+        misc['focus_words_use_first_detail'][k] = {}
+        for v in misc['focus_words_use_first'][k]:
+            misc['focus_words_use_first_detail'][k][v] = {}
     
     query = "SELECT speller, count(1) attempts_today from Spelling_Word_Attempts where day_index=%s group by speller;"
     param = [misc['day_index']]
@@ -495,10 +521,38 @@ def spelling():
     param = [misc['day_index']]
     misc['today_n_correct_by_speller'] = cursor.hashMap_query_results(query, param, "speller", "correct_today")
     
+    # Summarize the words that they've done recently; the goal is to avoid showing them words that they know really well
+    query = """Select answer, speller, sum(CASE when answer=attempt then 1 else 0 end) n_correct
+    , count(1) - sum(CASE when answer=attempt then 1 else 0 end) n_wrong
+    , sum(CASE when answer=attempt then 1 else 0 end)/count(1) pctCorrect
+    from Spelling_Word_Attempts where datestamp>%s and length(attempt) > 1
+    group by answer, speller;"""
+    param = [(datetime.now() - timedelta(days=21)).strftime("%Y-%m-%d")]
+    misc['recent_performance_by_speller'] = cursor.defaultdict_query_results(query, param, "speller")
+    misc['mastered_words_by_speller'] = defaultdict(list)
+    for k in misc['recent_performance_by_speller']:
+        for v in misc['recent_performance_by_speller'][k]:
+            v['pctCorrect'] = float(v['pctCorrect'])
+            v['n_wrong'] = int(v['n_wrong'])
+            v['n_correct'] = int(v['n_correct'])
+            
+            # If, in the past 3 weeks, they've gotten the word right 3 or more times and missed it zero times, then we can move on
+            if v['n_correct'] >= 3 and v['n_wrong'] == 0:
+                misc['mastered_words_by_speller'][k].append(v['answer'])
+            
+            rec = misc['focus_words_use_first_detail'][k].get(v['answer'])
+            if rec is not None:
+                rec['n_correct'] = int(v['n_correct'])
+                rec['n_wrong'] = int(v['n_wrong'])
+                rec['pctCorrect'] = float(v['pctCorrect'])
+    pprint(   misc['focus_words_use_first_detail']['Jack']  )     
     query = "SELECT speller, answer from Spelling_Word_Attempts where day_index=%s;"
     param = [misc['day_index']]
-    misc['today_words_used_by_speller'] = cursor.defaultdict_query_results(query, param, "speller")
-    
+    tmp = cursor.dqr(query, param)
+    misc['today_words_used_by_speller'] = defaultdict(list)
+    for t in tmp:
+        misc['today_words_used_by_speller'][t['speller']].append(t['answer'])
+        
     query = "SELECT speller, answer from Spelling_Word_Attempts;"
     param = []
     misc['all_time_words_used_by_speller'] = cursor.defaultdict_query_results(query, param, "speller")
@@ -506,7 +560,23 @@ def spelling():
     
     cursor.close()
     
-    
+    def filter_wordlist_for_lession(misc, word_list):
+        res = []
+        
+        if misc['lesson'] == "ai_ay":
+            for w in word_list:
+                keep = 0
+                if w['word'].endswith("ay"):
+                    keep = 1
+                elif not w['word'].endswith("ai") and not w['word'].startswith("ai") and "ai" in w['word']:
+                    keep = 1
+                if keep:
+                    res.append(w)
+                #    print (f"keep {w['word']}")
+                #else:
+                #    print (f"ignore {w['word']}")
+        return misc, res
+        
     words = []
     for i in range(1, 6):
         src = os.path.join(default_fldr, 'Spelling', f"ReadingRocketsGrade{i}.json")
@@ -515,6 +585,8 @@ def spelling():
         print (data[0])
         if misc['grade'] not in [None, '']:
             data = [z for z in data if z['grade'] == int(misc['grade'])]
+        if misc['lesson'] not in [None, '']:
+            misc, data = filter_wordlist_for_lession(misc, data)
         words += data
     
     random.shuffle(words)
@@ -523,7 +595,7 @@ def spelling():
         return render_template_string(HTML_TEMPLATE)
     else:
     
-        return render_template("spelling.html", misc=json.dumps(misc), user_obj={'auth': 1}, layout='layout_jack.html')
+        return render_template("spelling.html", titleStr=misc.get('title'), misc=json.dumps(misc), user_obj={'auth': 1}, layout='layout_jack.html')
         
 @app.route('/story-helper', methods=['GET', 'POST'])
 def story_helper():

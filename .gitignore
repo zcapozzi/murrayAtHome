@@ -1,1 +1,4 @@
 *.bak
+.ssh/
+__pycache__/
+id_ed25519_zcapozzi
